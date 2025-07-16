@@ -1027,6 +1027,65 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                 font-size: 16px;
             }
         }
+
+        /* zone partenaires */
+        .partners-section {
+            padding: 50px 0;
+            overflow: hidden;
+        }
+
+        .partners-section h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            color: #333;
+        }
+
+        .partners-flow {
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .partners-track {
+            display: flex;
+            width: calc(250px * 10);
+            /* Largeur totale adaptée au nombre de logos */
+            animation: scroll 30s linear infinite;
+        }
+
+        .partner {
+            width: 200px;
+            height: 100px;
+            margin: 0 25px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .partner img {
+            max-width: 100%;
+            max-height: 100%;
+            filter: grayscale(100%);
+            opacity: 0.7;
+            transition: all 0.3s ease;
+        }
+
+        .partner:hover img {
+            filter: grayscale(0%);
+            opacity: 1;
+            transform: scale(1.05);
+        }
+
+        @keyframes scroll {
+            0% {
+                transform: translateX(0);
+            }
+
+            100% {
+                transform: translateX(calc(-250px * 5));
+                /* Déplacement de la moitié de la largeur totale */
+            }
+        }
     </style>
 </head>
 
@@ -1300,58 +1359,52 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
         <div class="container">
             <h2 class="section-title text-center">Ils nous font confiance</h2>
 
-            <div class="testimonials-slider">
-                <div class="testimonial active">
-                    <div class="testimonial-text">
-                        YDIA CONSTRUCTION a su mener à bien notre projet complexe de centre commercial dans les délais et le budget impartis. Leur professionnalisme et leur réactivité ont fait toute la différence.
-                    </div>
-                    <div class="testimonial-author">
-                        <div class="author-img">
-                            <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Jean Dupont">
+            <div class="partners-section">
+                <h2>Nos Partenaires</h2>
+                <div class="partners-flow">
+                    <div class="partners-track">
+                        <!-- Première série de logos -->
+                        <div class="partner">
+                            <img src="chemin/vers/logo1.png" alt="Partenaire 1">
                         </div>
-                        <div class="author-info">
-                            <h4>Jean Dupont</h4>
-                            <p>Directeur Général, ImmoGroup</p>
+                        <div class="partner">
+                            <img src="chemin/vers/logo2.png" alt="Partenaire 2">
                         </div>
-                    </div>
-                </div>
+                        <div class="partner">
+                            <img src="chemin/vers/logo3.png" alt="Partenaire 3">
+                        </div>
+                        <div class="partner">
+                            <img src="chemin/vers/logo4.png" alt="Partenaire 4">
+                        </div>
+                        <div class="partner">
+                            <img src="chemin/vers/logo5.png" alt="Partenaire 5">
+                        </div>
 
-                <div class="testimonial">
-                    <div class="testimonial-text">
-                        Nous collaborons avec YDIA CONSTRUCTION depuis 5 ans pour tous nos projets immobiliers. Leur expertise technique et leur approche client sont exceptionnelles.
-                    </div>
-                    <div class="testimonial-author">
-                        <div class="author-img">
-                            <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Marie Lambert">
+                        <!-- Duplication pour l'effet infini -->
+                        <div class="partner">
+                            <img src="chemin/vers/logo1.png" alt="Partenaire 1">
                         </div>
-                        <div class="author-info">
-                            <h4>Marie Lambert</h4>
-                            <p>Directrice des Opérations, UrbanDev</p>
+                        <div class="partner">
+                            <img src="chemin/vers/logo2.png" alt="Partenaire 2">
                         </div>
-                    </div>
-                </div>
-
-                <div class="testimonial">
-                    <div class="testimonial-text">
-                        La rénovation de notre hôtel historique a été réalisée avec un respect remarquable du patrimoine tout en intégrant les technologies modernes. Un travail d'artisan.
-                    </div>
-                    <div class="testimonial-author">
-                        <div class="author-img">
-                            <img src="https://randomuser.me/api/portraits/men/67.jpg" alt="Pierre Moreau">
+                        <div class="partner">
+                            <img src="chemin/vers/logo3.png" alt="Partenaire 3">
                         </div>
-                        <div class="author-info">
-                            <h4>Pierre Moreau</h4>
-                            <p>Propriétaire, Hôtel Belle Époque</p>
+                        <div class="partner">
+                            <img src="chemin/vers/logo4.png" alt="Partenaire 4">
+                        </div>
+                        <div class="partner">
+                            <img src="chemin/vers/logo5.png" alt="Partenaire 5">
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="slider-controls">
+            <!-- <div class="slider-controls">
                 <div class="slider-dot active" data-slide="0"></div>
                 <div class="slider-dot" data-slide="1"></div>
                 <div class="slider-dot" data-slide="2"></div>
-            </div>
+            </div> -->
         </div>
     </section>
 

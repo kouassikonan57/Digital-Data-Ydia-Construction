@@ -1172,7 +1172,7 @@ $light_color = "#F5F5F5";
                         <span><i class="fas fa-water"></i> Infrastructure</span>
                     </div>
                     <p>Modernisation et extension du réseau d'assainissement sur 12km dans le centre-ville historique de Cocody. Ce projet délicat a nécessité des techniques de micro-tunnelage pour préserver le patrimoine tout en améliorant les infrastructures.</p>
-                    <a href="travaux-publics/projet-assainissement-Cocody.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
+                    <a href="travaux-publics/projet-assainissement.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
             </div>
 
