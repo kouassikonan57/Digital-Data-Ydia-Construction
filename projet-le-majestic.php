@@ -1089,7 +1089,7 @@ $light_color = "#F5F5F5";
                 <div class="meta-item" style="text-align: center;">
                     <i class="fas fa-map-marker-alt" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 10px;"></i>
                     <h3 style="margin-bottom: 5px;">Localisation</h3>
-                    <p>Lyon, Abidjan</p>
+                    <p>Abidjan</p>
                 </div>
                 <div class="meta-item" style="text-align: center;">
                     <i class="fas fa-calendar-alt" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 10px;"></i>
@@ -1164,7 +1164,7 @@ $light_color = "#F5F5F5";
                         <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Directeur de l'hôtel" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div class="author-info">
-                        <h3 style="margin-bottom: 5px;">Pierre Dubois</h3>
+                        <h3 style="margin-bottom: 5px;">Pierre D.</h3>
                         <p>Directeur de l'Hôtel Le Majestic</p>
                     </div>
                 </div>

@@ -608,7 +608,7 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>Campus Lyon Tech, La Doua</span>
+                            <span>Campus  Tech,</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>

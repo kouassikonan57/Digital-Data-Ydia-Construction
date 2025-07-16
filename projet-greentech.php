@@ -608,7 +608,7 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>Parc Eco-industriel, Nantes</span>
+                            <span>Parc Eco-industriel</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>

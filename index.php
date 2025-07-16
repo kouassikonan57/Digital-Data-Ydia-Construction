@@ -346,36 +346,111 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
         /* Hero Section */
         .hero {
+            position: relative;
             height: 100vh;
-            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;
+            min-height: 600px;
             color: <?php echo $secondary_color; ?>;
             display: flex;
             align-items: center;
             text-align: center;
             margin-top: 80px;
+            overflow: hidden;
         }
 
+        /* Nouveaux styles pour la vidéo de fond */
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+                url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;
+            z-index: -2;
+        }
+
+        .hero-video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            opacity: 0.7;
+            /* Transparence de la vidéo */
+            mix-blend-mode: overlay;
+            /* Effet de fusion avec l'image */
+        }
+
+        .hero-video video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Conserve vos styles existants */
         .hero-content {
             max-width: 800px;
             margin: 0 auto;
             padding: 0 20px;
+            position: relative;
+            z-index: 1;
+            animation: fadeInUp 1s ease-out;
         }
 
         .hero h1 {
             font-size: 3.5rem;
             margin-bottom: 20px;
             line-height: 1.2;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
         }
 
         .hero p {
             font-size: 1.2rem;
             margin-bottom: 30px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
         }
 
         .hero-btns {
             display: flex;
             justify-content: center;
             gap: 20px;
+        }
+
+        /* Animation */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero {
+                height: auto;
+                padding: 120px 0;
+            }
+
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .hero-btns {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .hero-video {
+                opacity: 0.5;
+                /* Plus transparent sur mobile */
+            }
         }
 
         /* About Section */
@@ -1145,6 +1220,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
     <!-- Hero Section -->
     <section class="hero" id="home">
+        <!-- Vidéo de fond -->
+        <div class="hero-video">
+            <video autoplay muted loop playsinline>
+                <source src="image/hero_index.mp4" type="video/mp4">
+                <!-- Fallback image si la vidéo ne charge pas -->
+                <img src="image/construction-pont.mp4" alt="Fond de construction">
+            </video>
+            <div class="video-overlay"></div>
+        </div>
         <div class="hero-content">
             <h1><?php echo $slogan; ?></h1>
             <p>YDIA CONSTRUCTION est une entreprise spécialisée dans les travaux de bâtiment et travaux publics, offrant des solutions innovantes et durables pour tous vos projets de construction.</p>
@@ -1330,7 +1414,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
                 <div class="project-card" data-category="batiment">
                     <div class="project-img">
-                        <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Centre commercial">
+                        <img src="image/centre commercial.jpg" alt="Centre commercial">
                     </div>
                     <div class="project-overlay">
                         <h3>Centre commercial "Les Terrasses"</h3>
@@ -1340,7 +1424,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
                 <div class="project-card" data-category="travaux-publics">
                     <div class="project-img">
-                        <img src="https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Réseau d'assainissement">
+                        <img src="image/reseau d'assainissement.jpg" alt="Réseau d'assainissement">
                     </div>
                     <div class="project-overlay">
                         <h3>Réseau d'assainissement</h3>
@@ -1827,6 +1911,20 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
             const statsSection = document.querySelector(".stats");
             if (statsSection) observer.observe(statsSection);
         });
+
+        // Script pour redémarrer la vidéo au survol zone hero
+        document.querySelector('.hero-video video').addEventListener('mouseenter', function() {
+            this.currentTime = 0;
+            this.play();
+        });
+
+        // Détection des navigateurs mobiles qui bloquent l'autoplay
+        if (/Android|iPhone|iPad/i.test(navigator.userAgent)) {
+            const video = document.querySelector('.hero-video video');
+            video.play().catch(e => {
+                video.style.display = 'none';
+            });
+        }
     </script>
 
 </body>

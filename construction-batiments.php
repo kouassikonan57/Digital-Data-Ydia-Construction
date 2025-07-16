@@ -1144,7 +1144,7 @@ $light_color = "#F5F5F5";
                 <!-- Projet 2 -->
                 <div class="building-card">
                     <div class="building-img">
-                        <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Centre commercial">
+                        <img src="image/centre commercial.jpg" alt="Centre commercial">
                     </div>
                     <div class="building-content">
                         <h3>Centre commercial "Les Terrasses"</h3>

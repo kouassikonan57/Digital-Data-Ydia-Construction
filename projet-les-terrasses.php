@@ -607,7 +607,7 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>Adjame, quartier Saint-Just</span>
+                            <span>Adjame, quartier S.</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>

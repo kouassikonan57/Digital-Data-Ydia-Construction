@@ -1,9 +1,14 @@
 <?php
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
+
 require 'vendor/autoload.php';
 
-$to = 'contact@tonsite.com'; // ← ton e-mail de réception
+// Charger les variables d'environnement
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
+
+$to = $_ENV['MAIL_TO'];
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['email'])) {
     $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
@@ -18,23 +23,20 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['email'])) {
 
     $mail = new PHPMailer(true);
     try {
-        // SMTP configuration
         $mail->isSMTP();
-        $mail->Host = 'smtp.gmail.com'; // ou autre SMTP (Mailjet, Sendinblue…)
-        $mail->SMTPAuth = true;
-        $mail->Username = 'konitokouassi0@gmail.com'; // ← ton adresse
-        $mail->Password = 'crlm fjcc cbfz ghyk'; // ← mot de passe d'application Gmail
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port = 587;
+        $mail->Host       = $_ENV['MAIL_HOST'];
+        $mail->SMTPAuth   = true;
+        $mail->Username   = $_ENV['MAIL_USERNAME'];
+        $mail->Password   = $_ENV['MAIL_PASSWORD'];
+        $mail->SMTPSecure = $_ENV['MAIL_ENCRYPTION'];
+        $mail->Port       = $_ENV['MAIL_PORT'];
 
-        // Expéditeur et destinataire
-        $mail->setFrom('noreply@ydia.com', 'Newsletter');
+        $mail->setFrom($_ENV['MAIL_FROM'], $_ENV['MAIL_FROM_NAME']);
         $mail->addAddress($to);
-        $mail->addReplyTo($email); // Pour te permettre de répondre
+        $mail->addReplyTo($email);
 
-        // Contenu
         $mail->Subject = $subject;
-        $mail->Body = $message;
+        $mail->Body    = $message;
         $mail->isHTML(false);
 
         $mail->send();
