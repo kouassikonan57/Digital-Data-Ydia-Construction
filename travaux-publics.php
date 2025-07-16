@@ -1061,7 +1061,7 @@ $light_color = "#F5F5F5";
     <section class="video-slider">
         <div class="video-slide active">
             <video autoplay muted loop>
-                <source src="videos/travaux-publics1.mp4" type="video/mp4">
+                <source src="image/infrastructure-routiere.mp4" type="video/mp4">
                 Votre navigateur ne supporte pas les vidéos HTML5.
             </video>
             <div class="video-overlay">
@@ -1072,7 +1072,7 @@ $light_color = "#F5F5F5";
 
         <div class="video-slide">
             <video autoplay muted loop>
-                <source src="videos/travaux-publics2.mp4" type="video/mp4">
+                <source src="image/construction-pont.mp4" type="video/mp4">
                 Votre navigateur ne supporte pas les vidéos HTML5.
             </video>
             <div class="video-overlay">
@@ -1083,7 +1083,7 @@ $light_color = "#F5F5F5";
 
         <div class="video-slide">
             <video autoplay muted loop>
-                <source src="videos/travaux-publics3.mp4" type="video/mp4">
+                <source src="image/reseaux-urbains.mp4" type="video/mp4">
                 Votre navigateur ne supporte pas les vidéos HTML5.
             </video>
             <div class="video-overlay">
@@ -1107,7 +1107,7 @@ $light_color = "#F5F5F5";
 
             <div class="project-item">
                 <div class="project-img">
-                    <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Pont autoroutier A14">
+                    <img src="image/route a14.jpg" alt="Pont autoroutier A14">
                 </div>
                 <div class="project-content">
                     <h3>Pont autoroutier A14</h3>
@@ -1115,7 +1115,7 @@ $light_color = "#F5F5F5";
                     <div class="project-details">
                         <div class="detail-item">
                             <h4>Localisation</h4>
-                            <p>Normandie, France</p>
+                            <p>Bingerville, Abidjan</p>
                         </div>
                         <div class="detail-item">
                             <h4>Année</h4>
@@ -1127,7 +1127,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <div class="detail-item">
                             <h4>Budget</h4>
-                            <p>45 millions €</p>
+                            <p>45 millions FCFA</p>
                         </div>
                     </div>
                     <a href="travaux-publics/projet-pont-a14.php" class="btn">Voir les détails</a>
@@ -1136,15 +1136,15 @@ $light_color = "#F5F5F5";
 
             <div class="project-item">
                 <div class="project-img">
-                    <img src="https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Réseau d'assainissement">
+                    <img src="image/reseaux-assainissement.jpg" alt="Réseau d'assainissement">
                 </div>
                 <div class="project-content">
-                    <h3>Réseau d'assainissement Toulouse</h3>
-                    <p>Réhabilitation complète du réseau d'assainissement du centre-ville de Toulouse, incluant la pose de 12 km de canalisations et la modernisation des stations de pompage. Ce projet a permis de réduire significativement les risques d'inondation.</p>
+                    <h3>Réseau d'assainissement</h3>
+                    <p>Réhabilitation complète du réseau d'assainissement du centre-ville de Cocody, incluant la pose de 12 km de canalisations et la modernisation des stations de pompage. Ce projet a permis de réduire significativement les risques d'inondation.</p>
                     <div class="project-details">
                         <div class="detail-item">
                             <h4>Localisation</h4>
-                            <p>Toulouse, France</p>
+                            <p>Cocody, Abidjan</p>
                         </div>
                         <div class="detail-item">
                             <h4>Année</h4>
@@ -1156,16 +1156,16 @@ $light_color = "#F5F5F5";
                         </div>
                         <div class="detail-item">
                             <h4>Budget</h4>
-                            <p>28 millions €</p>
+                            <p>28 millions FCFA</p>
                         </div>
                     </div>
-                    <a href="travaux-publics/projet-assainissement-toulouse.php" class="btn">Voir les détails</a>
+                    <a href="travaux-publics/projet-assainissement.php" class="btn">Voir les détails</a>
                 </div>
             </div>
 
             <div class="project-item">
                 <div class="project-img">
-                    <img src="https://images.unsplash.com/photo-1581093450021-4a7360e9a6a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Voie rapide urbaine">
+                    <img src="image/voie rapide urbaine.jpg" alt="Voie rapide urbaine">
                 </div>
                 <div class="project-content">
                     <h3>Voie rapide urbaine Lyon-Est</h3>
@@ -1173,7 +1173,7 @@ $light_color = "#F5F5F5";
                     <div class="project-details">
                         <div class="detail-item">
                             <h4>Localisation</h4>
-                            <p>Lyon, France</p>
+                            <p>Auto-route, Abidjan</p>
                         </div>
                         <div class="detail-item">
                             <h4>Année</h4>
@@ -1185,10 +1185,10 @@ $light_color = "#F5F5F5";
                         </div>
                         <div class="detail-item">
                             <h4>Budget</h4>
-                            <p>62 millions €</p>
+                            <p>62 millions FCFA</p>
                         </div>
                     </div>
-                    <a href="travaux-publics/projet-voie-lyon.php" class="btn">Voir les détails</a>
+                    <a href="travaux-publics/projet-voie.php" class="btn">Voir les détails</a>
                 </div>
             </div>
 

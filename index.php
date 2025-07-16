@@ -1075,7 +1075,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
             <h2 class="section-title">Qui sommes-nous</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p>Fondée en 2010, YDIA CONSTRUCTION s'est rapidement imposée comme un acteur majeur dans le secteur du BTP en France. Notre engagement envers l'excellence et l'innovation nous a permis de réaliser des centaines de projets réussis à travers le pays.</p>
+                    <p>Fondée en 2010, YDIA CONSTRUCTION s'est rapidement imposée comme un acteur majeur dans le secteur du BTP en Abidjan. Notre engagement envers l'excellence et l'innovation nous a permis de réaliser des centaines de projets réussis à travers le pays.</p>
                     <p>Nous croyons en une approche collaborative avec nos clients, en mettant l'accent sur la qualité, la sécurité et le respect des délais. Notre équipe d'experts dévoués travaille sans relâche pour transformer vos visions en réalité.</p>
                     <p>Avec plus de 200 employés qualifiés et un chiffre d'affaires annuel de 50 millions d'euros, nous avons les ressources et l'expertise nécessaires pour mener à bien des projets de toutes tailles et complexités.</p>
                     <a href="#services" class="btn" style="margin-top: 20px;">Découvrez nos services</a>
@@ -1208,17 +1208,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Tour résidentielle "Les Cèdres"</h3>
-                        <p>Paris, 2022 - 25 étages, 120 appartements</p>
+                        <p>Côte d'Ivoire, 2022 - 25 étages, 120 appartements</p>
                     </div>
                 </div>
 
                 <div class="project-card" data-category="travaux-publics">
                     <div class="project-img">
-                        <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Pont autoroutier">
+                        <img src="image/route a14.jpg" alt="Pont autoroutier">
                     </div>
                     <div class="project-overlay">
                         <h3>Pont autoroutier A14</h3>
-                        <p>Normandie, 2021 - Longueur: 850m</p>
+                        <p>Bingerville, 2021 - Longueur: 850m</p>
                     </div>
                 </div>
 
@@ -1238,7 +1238,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Siège social TechnoSoft</h3>
-                        <p>Bordeaux, 2021 - 5 000m² d'espaces de travail</p>
+                        <p>Yopougon, 2021 - 5 000m² d'espaces de travail</p>
                     </div>
                 </div>
 
@@ -1248,7 +1248,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Centre commercial "Les Terrasses"</h3>
-                        <p>Marseille, 2019 - 45 000m² de surface commerciale</p>
+                        <p>Adjame, 2019 - 45 000m² de surface commerciale</p>
                     </div>
                 </div>
 
@@ -1258,7 +1258,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Réseau d'assainissement</h3>
-                        <p>Toulouse, 2018 - 12km de canalisations</p>
+                        <p>Cocody, 2018 - 12km de canalisations</p>
                     </div>
                 </div>
             </div>

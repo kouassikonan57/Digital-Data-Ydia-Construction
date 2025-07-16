@@ -910,7 +910,7 @@ $light_color = "#F5F5F5";
             <h1>Complexe Résidentiel "Les Hauts de Seine"</h1>
             <div class="meta">
                 <div class="meta-item">24 mois</div>
-                <div class="meta-item">35M€</div>
+                <div class="meta-item">35MFCFA</div>
                 <div class="meta-item">120 logements</div>
             </div>
             <p>Un projet résidentiel ambitieux livré dans les délais malgré des contraintes complexes</p>
@@ -939,7 +939,7 @@ $light_color = "#F5F5F5";
                         <p>Logements</p>
                     </div>
                     <div class="cas-stat">
-                        <h3>35M€</h3>
+                        <h3>35MFCFA</h3>
                         <p>Budget total</p>
                     </div>
                     <div class="cas-stat">

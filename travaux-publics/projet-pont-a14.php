@@ -1032,7 +1032,7 @@ $light_color = "#F5F5F5";
         /* Styles spécifiques à la page de détail de projet */
         .project-hero {
             height: 60vh;
-            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../image/hero-a14.jpg') no-repeat center center/cover;
             color: <?php echo $secondary_color; ?>;
             display: flex;
             align-items: center;
@@ -1048,6 +1048,7 @@ $light_color = "#F5F5F5";
         .project-hero h1 {
             font-size: 3rem;
             margin-bottom: 20px;
+            text-align: center;
         }
 
         .project-hero p {
@@ -1392,11 +1393,11 @@ $light_color = "#F5F5F5";
                     <h3>Informations clés</h3>
                     <div class="info-item">
                         <h4>Client</h4>
-                        <p>Direction Interdépartementale des Routes Normandie</p>
+                        <p>Direction Interdépartementale des Routes Bingerville</p>
                     </div>
                     <div class="info-item">
                         <h4>Localisation</h4>
-                        <p>Normandie, France</p>
+                        <p>Bingerville, Abidjan</p>
                     </div>
                     <div class="info-item">
                         <h4>Date</h4>
@@ -1404,7 +1405,7 @@ $light_color = "#F5F5F5";
                     </div>
                     <div class="info-item">
                         <h4>Budget</h4>
-                        <p>45 millions €</p>
+                        <p>45 millions FCFA</p>
                     </div>
                     <div class="info-item">
                         <h4>Longueur</h4>
@@ -1455,22 +1456,22 @@ $light_color = "#F5F5F5";
             <h2 class="section-title">Galerie du projet</h2>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Vue d'ensemble du pont A14">
+                    <img src="../image/route a14.jpg" alt="Vue d'ensemble du pont A14">
                 </div>
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Travaux de fondation">
+                    <img src="../image/img-projet (2).jpg" alt="Travaux de fondation">
                 </div>
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Mise en place des travées">
+                    <img src="../image/route a14.jpg" alt="Mise en place des travées">
                 </div>
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Vue aérienne du chantier">
+                    <img src="../image/route a141.jpg" alt="Vue aérienne du chantier">
                 </div>
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Détail des piles du pont">
+                    <img src="../image/route a14.jpg" alt="Détail des piles du pont">
                 </div>
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Inauguration du pont">
+                    <img src="../image/img-projet (1).jpg" alt="Inauguration du pont">
                 </div>
             </div>
         </div>

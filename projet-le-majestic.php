@@ -1089,7 +1089,7 @@ $light_color = "#F5F5F5";
                 <div class="meta-item" style="text-align: center;">
                     <i class="fas fa-map-marker-alt" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 10px;"></i>
                     <h3 style="margin-bottom: 5px;">Localisation</h3>
-                    <p>Lyon, France</p>
+                    <p>Lyon, Abidjan</p>
                 </div>
                 <div class="meta-item" style="text-align: center;">
                     <i class="fas fa-calendar-alt" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 10px;"></i>

@@ -913,7 +913,7 @@ $light_color = "#F5F5F5";
             <h1>Siège Social Groupe Financier</h1>
             <div class="meta">
                 <div class="meta-item">18 mois</div>
-                <div class="meta-item">28M€</div>
+                <div class="meta-item">28MFCFA</div>
                 <div class="meta-item">12 000m²</div>
             </div>
             <p>Un bâtiment intelligent conçu pour favoriser la collaboration et l'innovation</p>
@@ -942,7 +942,7 @@ $light_color = "#F5F5F5";
                         <p>Mètres carrés</p>
                     </div>
                     <div class="cas-stat">
-                        <h3>28M€</h3>
+                        <h3>28MFCFA</h3>
                         <p>Budget total</p>
                     </div>
                     <div class="cas-stat">

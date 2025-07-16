@@ -1140,7 +1140,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Poids:</strong> 22 tonnes</span>
                             <span><strong>Puissance:</strong> 110 kW</span>
                         </div>
-                        <div class="engin-price">À partir de 1 500 €/jour</div>
+                        <div class="engin-price">À partir de 1 500 FCFA/jour</div>
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1157,7 +1157,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Capacité:</strong> 5,5 m³</span>
                             <span><strong>Puissance:</strong> 228 kW</span>
                         </div>
-                        <div class="engin-price">À partir de 1 200 €/jour</div>
+                        <div class="engin-price">À partir de 1 200 FCFA/jour</div>
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1174,7 +1174,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Poids:</strong> 23 tonnes</span>
                             <span><strong>Puissance:</strong> 149 kW</span>
                         </div>
-                        <div class="engin-price">À partir de 1 800 €/jour</div>
+                        <div class="engin-price">À partir de 1 800 FCFA/jour</div>
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1191,7 +1191,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Longueur:</strong> 9,2 m</span>
                             <span><strong>Puissance:</strong> 138 kW</span>
                         </div>
-                        <div class="engin-price">À partir de 1 300 €/jour</div>
+                        <div class="engin-price">À partir de 1 300 FCFA/jour</div>
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1208,7 +1208,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Poids:</strong> 27 tonnes</span>
                             <span><strong>Largeur:</strong> 2,1 m</span>
                         </div>
-                        <div class="engin-price">À partir de 900 €/jour</div>
+                        <div class="engin-price">À partir de 900 FCFA/jour</div>
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1225,7 +1225,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Charge utile:</strong> 30 tonnes</span>
                             <span><strong>Volume:</strong> 18 m³</span>
                         </div>
-                        <div class="engin-price">À partir de 800 €/jour</div>
+                        <div class="engin-price">À partir de 800 FCFA/jour</div>
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1251,51 +1251,51 @@ $light_color = "#F5F5F5";
                 <tbody>
                     <tr>
                         <td>Pelle Hydraulique (22t)</td>
-                        <td>1 500 €</td>
-                        <td>7 500 €</td>
-                        <td>25 000 €</td>
+                        <td>1 500 FCFA</td>
+                        <td>7 500 FCFA</td>
+                        <td>25 000 FCFA</td>
                     </tr>
                     <tr>
                         <td>Chargeuse sur Pneus</td>
-                        <td>1 200 €</td>
-                        <td>6 000 €</td>
-                        <td>20 000 €</td>
+                        <td>1 200 FCFA</td>
+                        <td>6 000 FCFA</td>
+                        <td>20 000 FCFA</td>
                     </tr>
                     <tr>
                         <td>Bulldozer</td>
-                        <td>1 800 €</td>
-                        <td>9 000 €</td>
-                        <td>30 000 €</td>
+                        <td>1 800 FCFA</td>
+                        <td>9 000 FCFA</td>
+                        <td>30 000 FCFA</td>
                     </tr>
                     <tr>
                         <td>Niveleuse</td>
-                        <td>1 300 €</td>
-                        <td>6 500 €</td>
-                        <td>22 000 €</td>
+                        <td>1 300 FCFA</td>
+                        <td>6 500 FCFA</td>
+                        <td>22 000 FCFA</td>
                     </tr>
                     <tr>
                         <td>Compacteur à Pneus</td>
-                        <td>900 €</td>
-                        <td>4 500 €</td>
-                        <td>15 000 €</td>
+                        <td>900 FCFA</td>
+                        <td>4 500 FCFA</td>
+                        <td>15 000 FCFA</td>
                     </tr>
                     <tr>
                         <td>Camion Benne (30t)</td>
-                        <td>800 €</td>
-                        <td>4 000 €</td>
-                        <td>13 000 €</td>
+                        <td>800 FCFA</td>
+                        <td>4 000 FCFA</td>
+                        <td>13 000 FCFA</td>
                     </tr>
                     <tr>
                         <td>Mini-pelle (5t)</td>
-                        <td>600 €</td>
-                        <td>3 000 €</td>
-                        <td>10 000 €</td>
+                        <td>600 FCFA</td>
+                        <td>3 000 FCFA</td>
+                        <td>10 000 FCFA</td>
                     </tr>
                     <tr>
                         <td>Dumper</td>
-                        <td>700 €</td>
-                        <td>3 500 €</td>
-                        <td>12 000 €</td>
+                        <td>700 FCFA</td>
+                        <td>3 500 FCFA</td>
+                        <td>12 000 FCFA</td>
                     </tr>
                 </tbody>
             </table>

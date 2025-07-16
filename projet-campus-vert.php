@@ -624,7 +624,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
-                            <span>Budget : 15 millions €</span>
+                            <span>Budget : 15 millions FCFA</span>
                         </div>
                     </div>
 

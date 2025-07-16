@@ -520,20 +520,20 @@ $light_color = "#F5F5F5";
             }
         }
 
-        .comparison-table {
+        .comCôte d'Ivoireon-table {
             width: 100%;
             border-collapse: collapse;
             margin: 40px 0;
         }
 
-        .comparison-table th,
-        .comparison-table td {
+        .comCôte d'Ivoireon-table th,
+        .comCôte d'Ivoireon-table td {
             padding: 15px;
             text-align: left;
             border-bottom: 1px solid #ddd;
         }
 
-        .comparison-table th {
+        .comCôte d'Ivoireon-table th {
             background-color: <?php echo $primary_color; ?>;
             color: white;
         }
@@ -583,7 +583,7 @@ $light_color = "#F5F5F5";
     <section class="container" style="padding:80px 20px;">
         <h2 class="section-title text-center">Rénovation durable</h2>
 
-        <table class="comparison-table">
+        <table class="comCôte d'Ivoireon-table">
             <tr>
                 <th>Critère</th>
                 <th class="before">Avant</th>

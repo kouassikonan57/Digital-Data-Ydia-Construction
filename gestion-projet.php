@@ -892,7 +892,7 @@ $light_color = "#F5F5F5";
                     <p>Gestion complète d'un programme de 120 logements répartis sur 3 bâtiments avec espaces communs et parking souterrain.</p>
                     <div class="projet-stats">
                         <div class="stat">24 mois</div>
-                        <div class="stat">35M€</div>
+                        <div class="stat">35MFCFA</div>
                         <div class="stat">Livré à temps</div>
                     </div>
                     <p><strong>Défis relevés :</strong> Coordination de 15 corps de métiers différents, respect strict des normes acoustiques, gestion des approvisionnements en période de pénurie.</p>
@@ -909,7 +909,7 @@ $light_color = "#F5F5F5";
                     <p>Construction et aménagement d'un bâtiment de 12 000m² avec technologies intelligentes et espaces collaboratifs.</p>
                     <div class="projet-stats">
                         <div class="stat">18 mois</div>
-                        <div class="stat">28M€</div>
+                        <div class="stat">28MFCFA</div>
                         <div class="stat">Budget respecté</div>
                     </div>
                     <p><strong>Particularités :</strong> Travaux en site occupé (déménagement progressif), intégration de technologies IoT, respect des normes de sécurité renforcées.</p>

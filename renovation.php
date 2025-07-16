@@ -1147,7 +1147,7 @@ $light_color = "#F5F5F5";
                     <img src="https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Rénovation d'appartement">
                     <div class="gallery-overlay">
                         <h3>Appartement Haussmannien</h3>
-                        <p>Réhabilitation d'un appartement parisien avec conservation des éléments d'origine</p>
+                        <p>Réhabilitation d'un appartement Côte d'Ivoireien avec conservation des éléments d'origine</p>
                     </div>
                 </div>
 
@@ -1160,7 +1160,7 @@ $light_color = "#F5F5F5";
                 </div>
 
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600566752229-250d0da08639?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Rénovation de restaurant">
+                    <img src="image/restaurant-interieur.jpg" alt="Rénovation de restaurant">
                     <div class="gallery-overlay">
                         <h3>Restaurant "La Terrasse"</h3>
                         <p>Rénovation complète avec extension de la surface et création d'une véranda</p>

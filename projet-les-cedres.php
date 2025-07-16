@@ -567,7 +567,7 @@ $light_color = "#F5F5F5";
     <section class="project-hero">
         <div class="hero-content">
             <h1>Tour résidentielle "Les Cèdres"</h1>
-            <p>Un projet résidentiel haut de gamme au cœur de Paris</p>
+            <p>Un projet résidentiel haut de gamme au cœur de Côte d'Ivoire</p>
         </div>
     </section>
 
@@ -577,7 +577,7 @@ $light_color = "#F5F5F5";
             <div class="detail-grid">
                 <div class="detail-content">
                     <h2>Description du projet</h2>
-                    <p>La Tour Les Cèdres est un ensemble résidentiel prestigieux de 25 étages situé dans le 15ème arrondissement de Paris. Ce projet ambitieux comprend 120 appartements allant du studio à la penthouse, avec des finitions haut de gamme et des équipements communs exclusifs.</p>
+                    <p>La Tour Les Cèdres est un ensemble résidentiel prestigieux de 25 étages situé dans le district d'Abidjan. Ce projet ambitieux comprend 120 appartements allant du studio à la penthouse, avec des finitions haut de gamme et des équipements communs exclusifs.</p>
 
                     <h3>Caractéristiques techniques</h3>
                     <ul>
@@ -594,7 +594,7 @@ $light_color = "#F5F5F5";
                         <li>Piscine intérieure avec vue panoramique</li>
                         <li>Salle de sport et spa</li>
                         <li>Jardin suspendu au 15ème étage</li>
-                        <li>Toit-terrasse avec vue sur Paris</li>
+                        <li>Toit-terrasse avec vue sur Côte d'Ivoire</li>
                         <li>Conciergerie 24/7</li>
                     </ul>
 
@@ -619,7 +619,7 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>15ème arrondissement, Paris</span>
+                            <span>district, Abidjan</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>
@@ -635,7 +635,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
-                            <span>Budget : 52 millions €</span>
+                            <span>Budget : 52 millions FCFA</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-user-tie"></i>

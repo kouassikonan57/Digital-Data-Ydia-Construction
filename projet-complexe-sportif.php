@@ -566,7 +566,7 @@ $light_color = "#F5F5F5";
     <section class="project-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')">
         <div class="hero-content">
             <h1>Complexe Sportif Municipal</h1>
-            <p>Un équipement sportif d'exception pour Toulouse</p>
+            <p>Un équipement sportif d'exception pour Cocody</p>
         </div>
     </section>
 
@@ -608,7 +608,7 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>Toulouse, quartier des Pradettes</span>
+                            <span>Cocody, quartier des Pradettes</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>
@@ -624,7 +624,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
-                            <span>Budget : 28 millions €</span>
+                            <span>Budget : 28 millions FCFA</span>
                         </div>
                     </div>
 

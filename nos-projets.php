@@ -1072,7 +1072,7 @@ $light_color = "#F5F5F5";
     <section class="all-projects">
         <div class="container">
             <h2 class="section-title text-center">Tous Nos Projets</h2>
-            <p class="text-center" style="max-width: 800px; margin: 0 auto 50px;">Explorez notre portfolio complet de réalisations à travers la France. Chaque projet reflète notre engagement envers l'excellence, l'innovation et la satisfaction client.</p>
+            <p class="text-center" style="max-width: 800px; margin: 0 auto 50px;">Explorez notre portfolio complet de réalisations à travers la Abidjan. Chaque projet reflète notre engagement envers l'excellence, l'innovation et la satisfaction client.</p>
 
             <!-- Projet 1 -->
             <div class="project-item">
@@ -1082,7 +1082,7 @@ $light_color = "#F5F5F5";
                 <div class="project-content">
                     <h2>Tour résidentielle "Les Cèdres"</h2>
                     <div class="project-meta">
-                        <span><i class="fas fa-map-marker-alt"></i> Paris, France</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Abidjan, Côte d'Ivoire</span>
                         <span><i class="fas fa-calendar-alt"></i> 2022</span>
                         <span><i class="fas fa-building"></i> Résidentiel</span>
                     </div>
@@ -1094,12 +1094,12 @@ $light_color = "#F5F5F5";
             <!-- Projet 2 -->
             <div class="project-item">
                 <div class="project-img">
-                    <img src="https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Pont autoroutier A14">
+                    <img src="image/route a14.jpg" alt="Pont autoroutier A14">
                 </div>
                 <div class="project-content">
                     <h2>Pont autoroutier A14</h2>
                     <div class="project-meta">
-                        <span><i class="fas fa-map-marker-alt"></i> Normandie, France</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Bingerville, Abidjan</span>
                         <span><i class="fas fa-calendar-alt"></i> 2021</span>
                         <span><i class="fas fa-road"></i> Infrastructure</span>
                     </div>
@@ -1116,7 +1116,7 @@ $light_color = "#F5F5F5";
                 <div class="project-content">
                     <h2>Hôtel "Le Majestic"</h2>
                     <div class="project-meta">
-                        <span><i class="fas fa-map-marker-alt"></i> Lyon, France</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Lyon, Abidjan</span>
                         <span><i class="fas fa-calendar-alt"></i> 2020</span>
                         <span><i class="fas fa-hotel"></i> Rénovation</span>
                     </div>
@@ -1133,7 +1133,7 @@ $light_color = "#F5F5F5";
                 <div class="project-content">
                     <h2>Siège social TechnoSoft</h2>
                     <div class="project-meta">
-                        <span><i class="fas fa-map-marker-alt"></i> Bordeaux, France</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Yopougon, Abidjan</span>
                         <span><i class="fas fa-calendar-alt"></i> 2021</span>
                         <span><i class="fas fa-building"></i> Bureaux</span>
                     </div>
@@ -1145,12 +1145,12 @@ $light_color = "#F5F5F5";
             <!-- Projet 5 -->
             <div class="project-item">
                 <div class="project-img">
-                    <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Centre commercial Les Terrasses">
+                    <img src="image/centre commercial.jpg" alt="Centre commercial Les Terrasses">
                 </div>
                 <div class="project-content">
                     <h2>Centre commercial "Les Terrasses"</h2>
                     <div class="project-meta">
-                        <span><i class="fas fa-map-marker-alt"></i> Marseille, France</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Adjame, Abidjan</span>
                         <span><i class="fas fa-calendar-alt"></i> 2019</span>
                         <span><i class="fas fa-shopping-cart"></i> Commercial</span>
                     </div>
@@ -1162,17 +1162,17 @@ $light_color = "#F5F5F5";
             <!-- Projet 6 -->
             <div class="project-item">
                 <div class="project-img">
-                    <img src="https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Réseau d'assainissement">
+                    <img src="image/reseau d'assainissement.jpg" alt="Réseau d'assainissement">
                 </div>
                 <div class="project-content">
                     <h2>Réseau d'assainissement</h2>
                     <div class="project-meta">
-                        <span><i class="fas fa-map-marker-alt"></i> Toulouse, France</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Cocody, Abidjan</span>
                         <span><i class="fas fa-calendar-alt"></i> 2018</span>
                         <span><i class="fas fa-water"></i> Infrastructure</span>
                     </div>
-                    <p>Modernisation et extension du réseau d'assainissement sur 12km dans le centre-ville historique de Toulouse. Ce projet délicat a nécessité des techniques de micro-tunnelage pour préserver le patrimoine tout en améliorant les infrastructures.</p>
-                    <a href="travaux-publics/projet-assainissement-toulouse.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
+                    <p>Modernisation et extension du réseau d'assainissement sur 12km dans le centre-ville historique de Cocody. Ce projet délicat a nécessité des techniques de micro-tunnelage pour préserver le patrimoine tout en améliorant les infrastructures.</p>
+                    <a href="travaux-publics/projet-assainissement-Cocody.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
             </div>
 

@@ -1132,7 +1132,7 @@ $light_color = "#F5F5F5";
                     <div class="building-content">
                         <h3>Tour résidentielle "Les Cèdres"</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Paris</span>
+                            <span><i class="fas fa-map-marker-alt"></i> Côte d'Ivoire</span>
                             <span><i class="fas fa-calendar-alt"></i> 2022</span>
                             <span><i class="fas fa-home"></i> Résidentiel</span>
                         </div>
@@ -1149,7 +1149,7 @@ $light_color = "#F5F5F5";
                     <div class="building-content">
                         <h3>Centre commercial "Les Terrasses"</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Marseille</span>
+                            <span><i class="fas fa-map-marker-alt"></i> Adjame</span>
                             <span><i class="fas fa-calendar-alt"></i> 2019</span>
                             <span><i class="fas fa-shopping-cart"></i> Commercial</span>
                         </div>
@@ -1166,7 +1166,7 @@ $light_color = "#F5F5F5";
                     <div class="building-content">
                         <h3>Siège social TechnoSoft</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Bordeaux</span>
+                            <span><i class="fas fa-map-marker-alt"></i> Yopougon</span>
                             <span><i class="fas fa-calendar-alt"></i> 2021</span>
                             <span><i class="fas fa-building"></i> Bureaux</span>
                         </div>
@@ -1217,7 +1217,7 @@ $light_color = "#F5F5F5";
                     <div class="building-content">
                         <h3>Complexe sportif municipal</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Toulouse</span>
+                            <span><i class="fas fa-map-marker-alt"></i> Cocody</span>
                             <span><i class="fas fa-calendar-alt"></i> 2022</span>
                             <span><i class="fas fa-running"></i> Sportif</span>
                         </div>

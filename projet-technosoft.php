@@ -575,14 +575,14 @@ $light_color = "#F5F5F5";
             <div class="detail-grid">
                 <div class="detail-content">
                     <h2>Un bâtiment intelligent</h2>
-                    <p>Le nouveau siège de TechnoSoft à Bordeaux incarne la vision technologique de l'entreprise avec 5 000 m² d'espaces de travail modulables et connectés.</p>
+                    <p>Le nouveau siège de TechnoSoft à Yopougon incarne la vision technologique de l'entreprise avec 5 000 m² d'espaces de travail modulables et connectés.</p>
 
                     <h3>Caractéristiques</h3>
                     <ul>
                         <li>Bâtiment intelligent (IoT, gestion centralisée)</li>
                         <li>Espace de coworking et laboratoire R&D</li>
                         <li>Auditorium de 200 places</li>
-                        <li>Toit-terrasse avec vue sur Bordeaux</li>
+                        <li>Toit-terrasse avec vue sur Yopougon</li>
                         <li>Parking à vélos sécurisé (100 places)</li>
                     </ul>
 
@@ -608,7 +608,7 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>Bordeaux Euratlantique</span>
+                            <span>Yopougon Euratlantique</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>
@@ -624,7 +624,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
-                            <span>Budget : 18 millions €</span>
+                            <span>Budget : 18 millions FCFA</span>
                         </div>
                     </div>
 
