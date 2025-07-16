@@ -812,6 +812,33 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
             resize: vertical;
         }
 
+        .info-item .map-container {
+            margin-top: 10px;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .map-link {
+            display: block;
+            text-align: center;
+            margin-top: 8px;
+            color: <?php echo $light_color; ?>;
+            font-size: 0.9em;
+            text-decoration: none;
+        }
+
+        .map-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Adaptation pour mobile */
+        @media (max-width: 768px) {
+            .info-item .map-container iframe {
+                height: 150px;
+            }
+        }
+
         /* Footer */
         footer {
             background-color: <?php echo $dark_color; ?>;
@@ -1365,27 +1392,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     <div class="partners-track">
                         <!-- Première série de logos -->
                         <div class="partner">
-                            <img src="chemin/vers/logo1.png" alt="Partenaire 1">
+                            <img src="image/logo/logo yadi car center-01.png" alt="Yadi Car Center">
                         </div>
                         <div class="partner">
-                            <img src="chemin/vers/logo2.png" alt="Partenaire 2">
-                        </div>
-                        <div class="partner">
-                            <img src="chemin/vers/logo3.png" alt="Partenaire 3">
-                        </div>
-                        <div class="partner">
-                            <img src="chemin/vers/logo4.png" alt="Partenaire 4">
-                        </div>
-                        <div class="partner">
-                            <img src="chemin/vers/logo5.png" alt="Partenaire 5">
-                        </div>
-
-                        <!-- Duplication pour l'effet infini -->
-                        <div class="partner">
-                            <img src="chemin/vers/logo1.png" alt="Partenaire 1">
-                        </div>
-                        <div class="partner">
-                            <img src="chemin/vers/logo2.png" alt="Partenaire 2">
+                            <img src="image/logo/YADI Group_Logotype_DDCS_- Vf.jpg" alt="DDCS">
                         </div>
                         <div class="partner">
                             <img src="chemin/vers/logo3.png" alt="Partenaire 3">
@@ -1454,6 +1464,28 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         <div class="info-text">
                             <h4>Heures d'ouverture</h4>
                             <p>Lundi - Vendredi: 8h00 - 18h00<br>Samedi: 9h00 - 12h00</p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">
+                            <i class="fas fa-map-marked-alt"></i>
+                        </div>
+                        <div class="info-text">
+                            <h4>Localisation</h4>
+                            <div class="map-container">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2036.6842509804612!2d-3.9730721087485996!3d5.380333403496543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ed76a47d82a7%3A0xc6a9bfa28b626c19!2sROND%20POINT%20CNPS!5e1!3m2!1sfr!2sci!4v1752680035305!5m2!1sfr!2sci"
+                                    width="100%"
+                                    height="300"
+                                    style="border:0;"
+                                    allowfullscreen=""
+                                    loading="lazy">
+                                </iframe>
+                                <a href="https://maps.google.com?q=123+Avenue+des+Constructeurs,Abidjan,Côte+d'Ivoire"
+                                    target="_blank"
+                                    class="map-link">
+                                    Ouvrir dans Google Maps
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
