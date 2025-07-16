@@ -1129,7 +1129,7 @@ $light_color = "#F5F5F5";
     <header>
         <div class="container header-container">
             <div class="logo">
-                <a href="index01.php">
+                <a href="index.php">
                     <img src="image/logo/logo_Ydia.png" alt="YDIA CONSTRUCTION Logo">
                 </a>
             </div>
@@ -1140,12 +1140,12 @@ $light_color = "#F5F5F5";
 
             <nav id="mainNav">
                 <ul>
-                    <li><a href="index01.php#home">Accueil</a></li>
-                    <li><a href="index01.php#about">Qui sommes-nous</a></li>
-                    <li><a href="index01.php#services">Domaines d'expertise</a></li>
-                    <li><a href="index01.php#projects">Nos projets</a></li>
-                    <li><a href="index01.php#careers">Carrières</a></li>
-                    <li><a href="index01.php#contact">Contact</a></li>
+                    <li><a href="index.php#home">Accueil</a></li>
+                    <li><a href="index.php#about">Qui sommes-nous</a></li>
+                    <li><a href="index.php#services">Domaines d'expertise</a></li>
+                    <li><a href="index.php#projects">Nos projets</a></li>
+                    <li><a href="index.php#careers">Carrières</a></li>
+                    <li><a href="index.php#contact">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -1156,7 +1156,7 @@ $light_color = "#F5F5F5";
         <div class="interior-hero-content">
             <h1>Aménagement Intérieur d'Exception</h1>
             <p>Créez des espaces uniques qui reflètent votre personnalité et optimisent votre confort au quotidien. Notre équipe de designers et artisans transforme vos idées en réalité.</p>
-            <a href="index01.php#contact" class="btn">Demander une consultation</a>
+            <a href="index.php#contact" class="btn">Demander une consultation</a>
         </div>
     </section>
 
@@ -1366,12 +1366,12 @@ $light_color = "#F5F5F5";
                 <div class="footer-col">
                     <h3>Liens rapides</h3>
                     <ul class="footer-links" id="linkss">
-                        <li><a href="index01.php#home">Accueil</a></li>
-                        <li><a href="index01.php#about">Qui sommes-nous</a></li>
-                        <li><a href="index01.php#services">Domaines d'expertise</a></li>
-                        <li><a href="index01.php#projects">Nos projets</a></li>
-                        <li><a href="index01.php#careers">Carrières</a></li>
-                        <li><a href="index01.php#contact">Contact</a></li>
+                        <li><a href="index.php#home">Accueil</a></li>
+                        <li><a href="index.php#about">Qui sommes-nous</a></li>
+                        <li><a href="index.php#services">Domaines d'expertise</a></li>
+                        <li><a href="index.php#projects">Nos projets</a></li>
+                        <li><a href="index.php#careers">Carrières</a></li>
+                        <li><a href="index.php#contact">Contact</a></li>
                         <li><a href="#">Yadi Groupe</a></li>
                     </ul>
                 </div>

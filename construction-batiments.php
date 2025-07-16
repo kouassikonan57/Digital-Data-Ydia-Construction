@@ -1027,7 +1027,7 @@ $light_color = "#F5F5F5";
     <header>
         <div class="container header-container">
             <div class="logo">
-                <a href="index01.php">
+                <a href="index.php">
                     <img src="image/logo/logo_Ydia.png" alt="YDIA CONSTRUCTION Logo">
                 </a>
             </div>
@@ -1038,12 +1038,12 @@ $light_color = "#F5F5F5";
 
             <nav id="mainNav">
                 <ul>
-                    <li><a href="index01.php">Accueil</a></li>
-                    <li><a href="index01.php#about">Qui sommes-nous</a></li>
-                    <li><a href="index01.php#services">Domaines d'expertise</a></li>
-                    <li><a href="index01.php#projects">Nos projets</a></li>
-                    <li><a href="index01.php#careers">Carrières</a></li>
-                    <li><a href="index01.php#contact">Contact</a></li>
+                    <li><a href="index.php">Accueil</a></li>
+                    <li><a href="index.php#about">Qui sommes-nous</a></li>
+                    <li><a href="index.php#services">Domaines d'expertise</a></li>
+                    <li><a href="index.php#projects">Nos projets</a></li>
+                    <li><a href="index.php#careers">Carrières</a></li>
+                    <li><a href="index.php#contact">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -1057,8 +1057,8 @@ $light_color = "#F5F5F5";
                 <h1>Construction de Bâtiments</h1>
                 <p>Expertise, innovation et qualité dans la réalisation de bâtiments résidentiels, commerciaux et industriels sur mesure.</p>
                 <div class="hero-btns">
-                    <a href="index01.php#projects" class="btn">Voir nos réalisations</a>
-                    <a href="index01.php#contact" class="btn btn-outline">Nous contacter</a>
+                    <a href="index.php#projects" class="btn">Voir nos réalisations</a>
+                    <a href="index.php#contact" class="btn btn-outline">Nous contacter</a>
                 </div>
             </div>
         </div>
@@ -1069,8 +1069,8 @@ $light_color = "#F5F5F5";
                 <h1>Travaux Publics</h1>
                 <p>Infrastructures routières, ponts et ouvrages d'art réalisés avec les plus hauts standards de qualité et de sécurité.</p>
                 <div class="hero-btns">
-                    <a href="index01.php#projects" class="btn">Nos références</a>
-                    <a href="index01.php#services" class="btn btn-outline">Nos services</a>
+                    <a href="index.php#projects" class="btn">Nos références</a>
+                    <a href="index.php#services" class="btn btn-outline">Nos services</a>
                 </div>
             </div>
         </div>
@@ -1081,8 +1081,8 @@ $light_color = "#F5F5F5";
                 <h1>Solutions Durables</h1>
                 <p>Engagés dans la construction verte avec des matériaux écologiques et des techniques respectueuses de l'environnement.</p>
                 <div class="hero-btns">
-                    <a href="index01.php#about" class="btn">Notre engagement</a>
-                    <a href="index01.php#contact" class="btn btn-outline">En savoir plus</a>
+                    <a href="index.php#about" class="btn">Notre engagement</a>
+                    <a href="index.php#contact" class="btn btn-outline">En savoir plus</a>
                 </div>
             </div>
         </div>
@@ -1228,7 +1228,7 @@ $light_color = "#F5F5F5";
             </div>
 
             <div class="text-center" style="margin-top: 50px;">
-                <a href="index01.php#contact" class="btn">Un projet de construction ? Contactez-nous</a>
+                <a href="index.php#contact" class="btn">Un projet de construction ? Contactez-nous</a>
             </div>
         </div>
     </section>
@@ -1254,12 +1254,12 @@ $light_color = "#F5F5F5";
                 <div class="footer-col">
                     <h3>Liens rapides</h3>
                     <ul class="footer-links" id="linkss">
-                        <li><a href="index01.php">Accueil</a></li>
-                        <li><a href="index01.php#about">Qui sommes-nous</a></li>
-                        <li><a href="index01.php#services">Domaines d'expertise</a></li>
+                        <li><a href="index.php">Accueil</a></li>
+                        <li><a href="index.php#about">Qui sommes-nous</a></li>
+                        <li><a href="index.php#services">Domaines d'expertise</a></li>
                         <li><a href="nos-projet.php">Nos projets</a></li>
-                        <li><a href="index01.php#careers">Carrières</a></li>
-                        <li><a href="index01.php#contact">Contact</a></li>
+                        <li><a href="index.php#careers">Carrières</a></li>
+                        <li><a href="index.php#contact">Contact</a></li>
                         <li><a href="#">Yadi Groupe</a></li>
                     </ul>
                 </div>

@@ -1078,7 +1078,7 @@ $light_color = "#F5F5F5";
     <header>
         <div class="container header-container">
             <div class="logo">
-                <a href="index01.php">
+                <a href="index.php">
                     <img src="image/logo/logo_Ydia.png" alt="YDIA CONSTRUCTION Logo">
                 </a>
             </div>
@@ -1089,12 +1089,12 @@ $light_color = "#F5F5F5";
 
             <nav id="mainNav">
                 <ul>
-                    <li><a href="index01.php#home">Accueil</a></li>
-                    <li><a href="index01.php#about">Qui sommes-nous</a></li>
-                    <li><a href="index01.php#services">Domaines d'expertise</a></li>
-                    <li><a href="index01.php#projects">Nos projets</a></li>
-                    <li><a href="index01.php#careers">Carrières</a></li>
-                    <li><a href="index01.php#contact">Contact</a></li>
+                    <li><a href="index.php#home">Accueil</a></li>
+                    <li><a href="index.php#about">Qui sommes-nous</a></li>
+                    <li><a href="index.php#services">Domaines d'expertise</a></li>
+                    <li><a href="index.php#projects">Nos projets</a></li>
+                    <li><a href="index.php#careers">Carrières</a></li>
+                    <li><a href="index.php#contact">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -1141,7 +1141,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> 110 kW</span>
                         </div>
                         <div class="engin-price">À partir de 1 500 €/jour</div>
-                        <a href="index01.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1158,7 +1158,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> 228 kW</span>
                         </div>
                         <div class="engin-price">À partir de 1 200 €/jour</div>
-                        <a href="index01.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1175,7 +1175,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> 149 kW</span>
                         </div>
                         <div class="engin-price">À partir de 1 800 €/jour</div>
-                        <a href="index01.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1192,7 +1192,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> 138 kW</span>
                         </div>
                         <div class="engin-price">À partir de 1 300 €/jour</div>
-                        <a href="index01.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1209,7 +1209,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Largeur:</strong> 2,1 m</span>
                         </div>
                         <div class="engin-price">À partir de 900 €/jour</div>
-                        <a href="index01.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1226,7 +1226,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Volume:</strong> 18 m³</span>
                         </div>
                         <div class="engin-price">À partir de 800 €/jour</div>
-                        <a href="index01.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
             </div>
@@ -1328,12 +1328,12 @@ $light_color = "#F5F5F5";
                 <div class="footer-col">
                     <h3>Liens rapides</h3>
                     <ul class="footer-links" id="linkss">
-                        <li><a href="index01.php#home">Accueil</a></li>
-                        <li><a href="index01.php#about">Qui sommes-nous</a></li>
-                        <li><a href="index01.php#services">Domaines d'expertise</a></li>
-                        <li><a href="index01.php#projects">Nos projets</a></li>
-                        <li><a href="index01.php#careers">Carrières</a></li>
-                        <li><a href="index01.php#contact">Contact</a></li>
+                        <li><a href="index.php#home">Accueil</a></li>
+                        <li><a href="index.php#about">Qui sommes-nous</a></li>
+                        <li><a href="index.php#services">Domaines d'expertise</a></li>
+                        <li><a href="index.php#projects">Nos projets</a></li>
+                        <li><a href="index.php#careers">Carrières</a></li>
+                        <li><a href="index.php#contact">Contact</a></li>
                         <li><a href="#">Yadi Groupe</a></li>
                     </ul>
                 </div>

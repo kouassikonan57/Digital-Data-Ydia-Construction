@@ -648,7 +648,7 @@ $light_color = "#F5F5F5";
                         </div>
                     </div>
 
-                    <a href="index01.php#contact" class="btn" style="width: 100%;">Demander une visite</a>
+                    <a href="index.php#contact" class="btn" style="width: 100%;">Demander une visite</a>
                 </div>
             </div>
         </div>
@@ -675,12 +675,12 @@ $light_color = "#F5F5F5";
                 <div class="footer-col">
                     <h3>Liens rapides</h3>
                     <ul class="footer-links" id="linkss">
-                        <li><a href="index01.php">Accueil</a></li>
-                        <li><a href="index01.php#about">Qui sommes-nous</a></li>
-                        <li><a href="index01.php#services">Domaines d'expertise</a></li>
-                        <li><a href="index01.php#projects">Nos projets</a></li>
-                        <li><a href="index01.php#careers">Carrières</a></li>
-                        <li><a href="index01.php#contact">Contact</a></li>
+                        <li><a href="index.php">Accueil</a></li>
+                        <li><a href="index.php#about">Qui sommes-nous</a></li>
+                        <li><a href="index.php#services">Domaines d'expertise</a></li>
+                        <li><a href="index.php#projects">Nos projets</a></li>
+                        <li><a href="index.php#careers">Carrières</a></li>
+                        <li><a href="index.php#contact">Contact</a></li>
                         <li><a href="#">Yadi Groupe</a></li>
                     </ul>
                 </div>

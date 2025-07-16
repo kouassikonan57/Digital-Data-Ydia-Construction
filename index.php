@@ -1035,7 +1035,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
     <header>
         <div class="container header-container">
             <div class="logo">
-                <a href="index01.php">
+                <a href="index.php">
                     <img src="image/logo/logo_Ydia.png" alt="YDIA CONSTRUCTION Logo">
                 </a>
             </div>
