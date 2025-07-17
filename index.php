@@ -1482,7 +1482,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                             <img src="image/logo/YADI Group_Logotype_DDCS_- Vf.jpg" alt="DDCS">
                         </div>
                         <div class="partner">
-                            <img src="chemin/vers/logo3.png" alt="Partenaire 3">
+                            <img src="image/partenaires/enez-cam-logo.jpg" alt="ENEZ CAM">
                         </div>
                         <div class="partner">
                             <img src="chemin/vers/logo4.png" alt="Partenaire 4">
