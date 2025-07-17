@@ -1603,6 +1603,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
                         <button type="submit" class="btn" style="width: 100%;">Envoyer le message</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
         </div>
@@ -1851,25 +1852,28 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     method: 'POST',
                     body: formData
                 })
-                .then(response => response.text())
-                .then(data => {
-                    formMessage.textContent = data;
-                    formMessage.style.display = 'block';
+                .then(response => {
+                    return response.text().then(data => {
+                        // ✅ On a à la fois "data" ET "response"
+                        formMessage.textContent = data;
+                        formMessage.style.display = 'block';
 
-                    if (response.ok) {
-                        formMessage.style.color = 'green';
-                        form.reset();
-                    } else {
-                        formMessage.style.color = 'red';
-                    }
+                        if (response.ok) {
+                            formMessage.style.color = 'green';
+                            form.reset();
+                        } else {
+                            formMessage.style.color = 'red';
+                        }
+                    });
                 })
                 .catch(error => {
-                    formMessage.textContent = 'Une erreur s\'est produite. Veuillez réessayer.';
+                    formMessage.textContent = '❌ Une erreur s\'est produite. Veuillez réessayer.';
                     formMessage.style.color = 'red';
                     formMessage.style.display = 'block';
                 });
         });
     </script>
+
 
     <!-- script stats section -->
     <script>

@@ -1,48 +1,54 @@
 <?php
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+
+require __DIR__ . '/vendor/autoload.php';
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
-require 'vendor/autoload.php';
+use Dotenv\Dotenv;
+
+// Charge les variables d'environnement
+$dotenv = Dotenv::createImmutable(__DIR__);
+$dotenv->load();
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
-    $to = "contact@tonsite.com"; // Remplace par ton email
-
-    $name    = htmlspecialchars(strip_tags($_POST["name"]));
-    $email   = filter_var($_POST["email"], FILTER_SANITIZE_EMAIL);
-    $phone   = htmlspecialchars(strip_tags($_POST["phone"]));
-    $subject = htmlspecialchars(strip_tags($_POST["subject"]));
-    $message = htmlspecialchars(strip_tags($_POST["message"]));
+    $name    = htmlspecialchars(trim($_POST["name"] ?? ''));
+    $email   = filter_var($_POST["email"] ?? '', FILTER_SANITIZE_EMAIL);
+    $phone   = htmlspecialchars(trim($_POST["phone"] ?? ''));
+    $subject = htmlspecialchars(trim($_POST["subject"] ?? ''));
+    $message = htmlspecialchars(trim($_POST["message"] ?? ''));
 
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        echo "Adresse e-mail invalide.";
+        echo "❌ Adresse e-mail invalide.";
         exit;
     }
 
     $email_subject = "Nouveau message de contact : $subject";
     $email_body = "
-        <h2>Nouveau message depuis le formulaire de contact</h2>
+        <h2>Message reçu depuis le formulaire de contact :</h2>
         <p><strong>Nom :</strong> $name</p>
         <p><strong>Email :</strong> $email</p>
         <p><strong>Téléphone :</strong> $phone</p>
         <p><strong>Sujet :</strong> $subject</p>
-        <p><strong>Message :</strong><br>$message</p>
+        <p><strong>Message :</strong><br>" . nl2br(htmlspecialchars($message)) . "</p>
     ";
 
     $mail = new PHPMailer(true);
+
     try {
-        // Configuration SMTP
         $mail->isSMTP();
-        $mail->Host = 'smtp.gmail.com'; // Ou mailjet, sendinblue, etc.
-        $mail->SMTPAuth = true;
-        $mail->Username = 'konitokouassi0@gmail.com'; // ← ton adresse Gmail
-        $mail->Password = 'crlm fjcc cbfz ghyk'; // ← mot de passe d'application
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port = 587;
+        $mail->Host       = $_ENV['MAIL_HOST'];
+        $mail->SMTPAuth   = true;
+        $mail->Username   = $_ENV['MAIL_USERNAME'];
+        $mail->Password   = $_ENV['MAIL_PASSWORD'];
+        $mail->SMTPSecure = $_ENV['MAIL_ENCRYPTION'];
+        $mail->Port       = $_ENV['MAIL_PORT'];
 
-        // Expéditeur et destinataire
-        $mail->setFrom($email, $name);
-        $mail->addAddress($to);
+        $mail->setFrom($_ENV['MAIL_CONTACT_FROM'], $_ENV['MAIL_CONTACT_NAME']);
+        $mail->addAddress($_ENV['MAIL_CONTACT_TO']);
+        $mail->addReplyTo($email, $name);
 
-        // Contenu
         $mail->isHTML(true);
         $mail->Subject = $email_subject;
         $mail->Body    = $email_body;
@@ -50,9 +56,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $mail->send();
         echo "✅ Votre message a bien été envoyé.";
     } catch (Exception $e) {
-        echo "❌ Erreur lors de l'envoi : {$mail->ErrorInfo}";
+        echo "❌ Erreur lors de l'envoi : " . $mail->ErrorInfo;
     }
 } else {
-    echo "Requête invalide.";
+    echo "❌ Requête invalide.";
 }
-?>
