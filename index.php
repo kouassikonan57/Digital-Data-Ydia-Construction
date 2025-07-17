@@ -1564,7 +1564,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                                     allowfullscreen=""
                                     loading="lazy">
                                 </iframe>
-                                <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2036.6842509804612!2d-3.9730721087485996!3d5.380333403496543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ed76a47d82a7%3A0xc6a9bfa28b626c19!2sROND%20POINT%20CNPS!5e1!3m2!1sfr!2sci!4v1752680035305!5m2!1sfr!2sci"
+                                <a href="https://maps.app.goo.gl/nfQ9nkkd1dPaatNR7"
                                     target="_blank"
                                     class="map-link">
                                     Ouvrir dans Google Maps
