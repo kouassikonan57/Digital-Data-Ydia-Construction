@@ -1134,30 +1134,29 @@ $light_color = "#F5F5F5";
                         <img src="image/Pelle hydraulique.jpg" alt="Pelle hydraulique">
                     </div>
                     <div class="engin-content">
-                        <h3>Pelle Hydraulique</h3>
+                        <h3>Tractopelle</h3>
                         <div class="engin-specs">
-                            <span><strong>Modèle:</strong> CAT 320</span>
-                            <span><strong>Poids:</strong> 22 tonnes</span>
-                            <span><strong>Puissance:</strong> 110 kW</span>
+                            <span><strong>Modèle:</strong> ...</span>
+                            <span><strong>Poids:</strong> ...</span>
+                            <span><strong>Puissance:</strong> ...</span>
                         </div>
-                        <div class="engin-price">À partir de 1 500 FCFA/jour</div>
+                        <!-- <div class="engin-price">À partir de 1 500 FCFA/jour</div> -->
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
-
                 <!-- Engin 2 -->
                 <div class="engin-card">
                     <div class="engin-img">
-                        <img src="image/chargeuse.jpg" alt="Chargeuse sur pneus">
+                        <img src="image/chargeuse.jpg" alt="Pelle hydraulique">
                     </div>
                     <div class="engin-content">
-                        <h3>Chargeuse</h3>
+                        <h3>Pelle Hydraulique</h3>
                         <div class="engin-specs">
-                            <span><strong>Modèle:</strong> Volvo L120H</span>
-                            <span><strong>Capacité:</strong> 5,5 m³</span>
-                            <span><strong>Puissance:</strong> 228 kW</span>
+                            <span><strong>Modèle:</strong> ...</span>
+                            <span><strong>Poids:</strong> ...</span>
+                            <span><strong>Puissance:</strong> ...</span>
                         </div>
-                        <div class="engin-price">À partir de 1 200 FCFA/jour</div>
+                        <!-- <div class="engin-price">À partir de 1 500 FCFA/jour</div> -->
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1165,16 +1164,16 @@ $light_color = "#F5F5F5";
                 <!-- Engin 3 -->
                 <div class="engin-card">
                     <div class="engin-img">
-                        <img src="image/bulldozer.jpg" alt="Bulldozer">
+                        <img src="image/bulldozer.jpg" alt="Chargeuse sur pneus">
                     </div>
                     <div class="engin-content">
-                        <h3>Bulldozer</h3>
+                        <h3>Chargeuse</h3>
                         <div class="engin-specs">
-                            <span><strong>Modèle:</strong> Komatsu D65PX-18</span>
-                            <span><strong>Poids:</strong> 23 tonnes</span>
-                            <span><strong>Puissance:</strong> 149 kW</span>
+                            <span><strong>Modèle:</strong> ...</span>
+                            <span><strong>Capacité:</strong> ...</span>
+                            <span><strong>Puissance:</strong> ...</span>
                         </div>
-                        <div class="engin-price">À partir de 1 800 FCFA/jour</div>
+                        <!-- <div class="engin-price">À partir de 1 200 FCFA/jour</div> -->
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1182,16 +1181,16 @@ $light_color = "#F5F5F5";
                 <!-- Engin 4 -->
                 <div class="engin-card">
                     <div class="engin-img">
-                        <img src="image/niveleuse.jpg" alt="Niveleuse">
+                        <img src="image/bulldozers.png" alt="Bulldozer">
                     </div>
                     <div class="engin-content">
-                        <h3>Niveleuse</h3>
+                        <h3>Bulldozer</h3>
                         <div class="engin-specs">
-                            <span><strong>Modèle:</strong> CAT 120K</span>
-                            <span><strong>Longueur:</strong> 9,2 m</span>
-                            <span><strong>Puissance:</strong> 138 kW</span>
+                            <span><strong>Modèle:</strong> ...</span>
+                            <span><strong>Poids:</strong> ...</span>
+                            <span><strong>Puissance:</strong> ...</span>
                         </div>
-                        <div class="engin-price">À partir de 1 300 FCFA/jour</div>
+                        <!-- <div class="engin-price">À partir de 1 800 FCFA/jour</div> -->
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1199,16 +1198,16 @@ $light_color = "#F5F5F5";
                 <!-- Engin 5 -->
                 <div class="engin-card">
                     <div class="engin-img">
-                        <img src="image/compacteur.jpg" alt="Compacteur">
+                        <img src="image/niveleuse.jpg" alt="Niveleuse">
                     </div>
                     <div class="engin-content">
-                        <h3>Compacteur</h3>
+                        <h3>Niveleuse</h3>
                         <div class="engin-specs">
-                            <span><strong>Modèle:</strong> BOMAG BW 27 RH</span>
-                            <span><strong>Poids:</strong> 27 tonnes</span>
-                            <span><strong>Largeur:</strong> 2,1 m</span>
+                            <span><strong>Modèle:</strong> ...</span>
+                            <span><strong>Longueur:</strong> ...</span>
+                            <span><strong>Puissance:</strong> ...</span>
                         </div>
-                        <div class="engin-price">À partir de 900 FCFA/jour</div>
+                        <!-- <div class="engin-price">À partir de 1 300 FCFA/jour</div> -->
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1216,16 +1215,49 @@ $light_color = "#F5F5F5";
                 <!-- Engin 6 -->
                 <div class="engin-card">
                     <div class="engin-img">
-                        <img src="image/benne.jpg" alt="Camion benne">
+                        <img src="image/compacteur (2).jpg" alt="Compacteur">
+                    </div>
+                    <div class="engin-content">
+                        <h3>Compacteur</h3>
+                        <div class="engin-specs">
+                            <span><strong>Modèle:</strong> ...</span>
+                            <span><strong>Poids:</strong> ...</span>
+                            <span><strong>Largeur:</strong> ...</span>
+                        </div>
+                        <!-- <div class="engin-price">À partir de 900 FCFA/jour</div> -->
+                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                    </div>
+                </div>
+
+                <!-- Engin 7 -->
+                <div class="engin-card">
+                    <div class="engin-img">
+                        <img src="image/camion-benne.jpg" alt="Camion benne">
                     </div>
                     <div class="engin-content">
                         <h3>Camion Benne</h3>
                         <div class="engin-specs">
-                            <span><strong>Modèle:</strong> Renault KERAX 460</span>
-                            <span><strong>Charge utile:</strong> 30 tonnes</span>
-                            <span><strong>Volume:</strong> 18 m³</span>
+                            <span><strong>Modèle:</strong> ...</span>
+                            <span><strong>Charge utile:</strong> ...</span>
+                            <span><strong>Volume:</strong> ...</span>
                         </div>
-                        <div class="engin-price">À partir de 800 FCFA/jour</div>
+                        <!-- <div class="engin-price">À partir de 800 FCFA/jour</div> -->
+                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                    </div>
+                </div>
+                <!-- Engin 8 -->
+                <div class="engin-card">
+                    <div class="engin-img">
+                        <img src="image/compacteur-à-mains.jpg" alt="compacteur à mains">
+                    </div>
+                    <div class="engin-content">
+                        <h3>Compacteur à mains</h3>
+                        <div class="engin-specs">
+                            <span><strong>Modèle:</strong> ...</span>
+                            <span><strong>Charge utile:</strong> ...</span>
+                            <span><strong>Volume:</strong> ...</span>
+                        </div>
+                        <!-- <div class="engin-price">À partir de 800 FCFA/jour</div> -->
                         <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
                     </div>
                 </div>
@@ -1239,7 +1271,7 @@ $light_color = "#F5F5F5";
             <h2 class="section-title text-center">Nos Tarifs de Location</h2>
             <p class="text-center" style="max-width: 700px; margin: 0 auto 40px;">Consultez nos tarifs compétitifs pour la location de nos engins de chantier.</p>
 
-            <table class="tarifs-table">
+            <!-- <table class="tarifs-table">
                 <thead>
                     <tr>
                         <th>Engin</th>
@@ -1298,7 +1330,7 @@ $light_color = "#F5F5F5";
                         <td>12 000 FCFA</td>
                     </tr>
                 </tbody>
-            </table>
+            </table> -->
 
             <div style="text-align: center; margin-top: 40px;">
                 <p><em>Tarifs HT - Options conducteur et transport disponibles</em></p>

@@ -1258,7 +1258,7 @@ $light_color = "#F5F5F5";
                 
                 <div class="style-card">
                     <div class="style-image">
-                        <img src="https://images.unsplash.com/photo-1583845112209-6c22ce27f1a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Style Minimaliste">
+                        <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Style Minimaliste">
                     </div>
                     <div class="style-content">
                         <h3>Minimaliste</h3>

@@ -1231,7 +1231,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
         </div>
         <div class="hero-content">
             <h1><?php echo $slogan; ?></h1>
-            <p>YDIA CONSTRUCTION est une entreprise spécialisée dans les travaux de bâtiment et travaux publics, offrant des solutions innovantes et durables pour tous vos projets de construction.</p>
+            <p>YDIA CONSTRUCTION est une entreprise spécialisée dans le BTP (Batiments Travaux Publics), offrant des solutions innovantes et durables pour tous vos projets de construction.</p>
             <div class="hero-btns">
                 <a href="#contact" class="btn">Nous contacter</a>
                 <a href="#services" class="btn btn-outline">Nos services</a>
@@ -1305,7 +1305,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="service-content">
                         <h3>Travaux publics</h3>
-                        <p>Réalisation d'infrastructures publiques : routes, ponts, réseaux d'assainissement et autres ouvrages d'art.</p>
+                        <p>Réalisation de travaux publiques : Voiries et Resaux Divers, routes, ponts, dallots, etc.</p>
                         <a href="travaux-publics.php" class="btn btn-outline" style="margin-top: 15px;">En savoir plus</a>
                     </div>
                 </div>
@@ -1316,7 +1316,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="service-content">
                         <h3>Rénovation</h3>
-                        <p>Transformation et modernisation de bâtiments existants pour améliorer leur fonctionnalité, efficacité énergétique et esthétique.</p>
+                        <p>Réhabilitation et modernisation de bâtiments existants pour améliorer leur fonctionnalité, efficacité énergétique et esthétique.</p>
                         <a href="renovation.php" class="btn btn-outline" style="margin-top: 15px;">En savoir plus</a>
                     </div>
                 </div>
@@ -1327,7 +1327,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="service-content">
                         <h3>Aménagement intérieur</h3>
-                        <p>Création d'espaces intérieurs fonctionnels et esthétiques, alliant design et praticité pour un confort optimal.</p>
+                        <p>Création d'espaces intérieurs fonctionnels et esthétiques, alliant design et qualité pour un confort optimal.</p>
                         <a href="amenagement-interieur.php" class="btn btn-outline" style="margin-top: 15px;">En savoir plus</a>
                     </div>
                 </div>
@@ -1378,7 +1378,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Tour résidentielle "Les Cèdres"</h3>
-                        <p>Côte d'Ivoire, 2022 - 25 étages, 120 appartements</p>
+                        <!-- <p>Côte d'Ivoire, 2022 - 25 étages, 120 appartements</p> -->
                     </div>
                 </div>
 
@@ -1388,7 +1388,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Pont autoroutier A14</h3>
-                        <p>Bingerville, 2021 - Longueur: 850m</p>
+                        <!-- <p>Bingerville, 2021 - Longueur: 850m</p> -->
                     </div>
                 </div>
 
@@ -1398,7 +1398,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Hôtel "Le Majestic"</h3>
-                        <p>Lyon, 2020 - Rénovation complète 5 étoiles</p>
+                        <!-- <p>Lyon, 2020 - Rénovation complète 5 étoiles</p> -->
                     </div>
                 </div>
 
@@ -1408,7 +1408,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Siège social TechnoSoft</h3>
-                        <p>Yopougon, 2021 - 5 000m² d'espaces de travail</p>
+                        <!-- <p>Yopougon, 2021 - 5 000m² d'espaces de travail</p> -->
                     </div>
                 </div>
 
@@ -1418,7 +1418,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Centre commercial "Les Terrasses"</h3>
-                        <p>Adjame, 2019 - 45 000m² de surface commerciale</p>
+                        <!-- <p>Adjame, 2019 - 45 000m² de surface commerciale</p> -->
                     </div>
                 </div>
 
@@ -1428,7 +1428,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     </div>
                     <div class="project-overlay">
                         <h3>Réseau d'assainissement</h3>
-                        <p>Cocody, 2018 - 12km de canalisations</p>
+                        <!-- <p>Cocody, 2018 - 12km de canalisations</p> -->
                     </div>
                 </div>
             </div>
