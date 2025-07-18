@@ -1052,7 +1052,7 @@ $light_color = "#F5F5F5";
     <!-- Hero Section -->
     <section class="hero-slider">
         <!-- Slide 1 -->
-        <div class="slide active" style="background-image: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+        <div class="slide active" style="background-image: url('image/const-bat.jpeg');">
             <div class="slide-content">
                 <h1>Construction de Bâtiments</h1>
                 <p>Expertise, innovation et qualité dans la réalisation de bâtiments résidentiels, commerciaux et industriels sur mesure.</p>
@@ -1132,8 +1132,8 @@ $light_color = "#F5F5F5";
                     <div class="building-content">
                         <h3>Tour résidentielle "Les Cèdres"</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Côte d'Ivoire</span>
-                            <span><i class="fas fa-calendar-alt"></i> 2022</span>
+                            <span><i class="fas fa-map-marker-alt"></i>....</span>
+                            <span><i class="fas fa-calendar-alt"></i> 20..</span>
                             <span><i class="fas fa-home"></i> Résidentiel</span>
                         </div>
                         <p>Construction d'une tour de 25 étages comprenant 120 appartements haut de gamme avec espaces communs premium.</p>
@@ -1144,12 +1144,12 @@ $light_color = "#F5F5F5";
                 <!-- Projet 2 -->
                 <div class="building-card">
                     <div class="building-img">
-                        <img src="image/centre commercial.jpg" alt="Centre commercial">
+                        <img src="image/terrasse.jpg" alt="Centre commercial">
                     </div>
                     <div class="building-content">
                         <h3>Centre commercial "Les Terrasses"</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Adjame</span>
+                            <span><i class="fas fa-map-marker-alt"></i>....</span>
                             <span><i class="fas fa-calendar-alt"></i> 20..</span>
                             <span><i class="fas fa-shopping-cart"></i> Commercial</span>
                         </div>
@@ -1164,10 +1164,10 @@ $light_color = "#F5F5F5";
                         <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Siège social">
                     </div>
                     <div class="building-content">
-                        <h3>Siège social TechnoSoft</h3>
+                        <h3>Siège social Yadi Groupe</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Yopougon</span>
-                            <span><i class="fas fa-calendar-alt"></i> 20..</span>
+                            <span><i class="fas fa-map-marker-alt"></i>Cocody</span>
+                            <span><i class="fas fa-calendar-alt"></i> 2024</span>
                             <span><i class="fas fa-building"></i> Bureaux</span>
                         </div>
                         <p>Construction du siège social de 5 000m² avec technologies intelligentes pour une gestion optimale de l'espace.</p>
@@ -1178,14 +1178,14 @@ $light_color = "#F5F5F5";
                 <!-- Projet 4 -->
                 <div class="building-card">
                     <div class="building-img">
-                        <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Résidence étudiante">
+                        <img src="image/renov (9).jpeg" alt="Résidence étudiante">
                     </div>
                     <div class="building-content">
                         <h3>Institut Pasteur</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Abidjan</span>
-                            <span><i class="fas fa-calendar-alt"></i> 2024</span>
-                            <span><i class="fas fa-university"></i> Local</span>
+                            <span><i class="fas fa-map-marker-alt"></i>Abidjan</span>
+                            <span><i class="fas fa-calendar-alt"></i>2024</span>
+                            <span><i class="fas fa-university"></i>Siège</span>
                         </div>
                         <p>Réhabilitation du departement des virus epidemie DVE de l'Institut Pasteur Adiopodoumé.</p>
                         <a href="projet-campus-vert.php" class="btn btn-outline" style="margin-top: 15px; display: inline-block;">Détails du projet</a>
@@ -1217,8 +1217,8 @@ $light_color = "#F5F5F5";
                     <div class="building-content">
                         <h3>Complexe sportif municipal</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Cocody</span>
-                            <span><i class="fas fa-calendar-alt"></i> 2022</span>
+                            <span><i class="fas fa-map-marker-alt"></i>....</span>
+                            <span><i class="fas fa-calendar-alt"></i> 20..</span>
                             <span><i class="fas fa-running"></i> Sportif</span>
                         </div>
                         <p>Réalisation d'un complexe sportif avec piscine olympique, salle omnisports et espaces wellness.</p>

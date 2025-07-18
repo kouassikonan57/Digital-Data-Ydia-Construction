@@ -563,10 +563,10 @@ $light_color = "#F5F5F5";
         </div>
     </header>
 
-    <section class="project-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')">
+    <section class="project-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/centre-commercial.jpg')">
         <div class="hero-content">
-            <h1>Centre commercial "Les Terrasses"</h1>
-            <p>Un nouveau concept commercial à Adjame</p>
+            <h1>Centre commercial</h1>
+            <p>Un nouveau concept commercial</p>
         </div>
     </section>
 
@@ -598,7 +598,7 @@ $light_color = "#F5F5F5";
                     <div class="gallery">
                         <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Vue aérienne">
                         <img src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Espaces intérieurs">
-                        <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Toiture végétale">
+                        <img src="image/caption.jpg" alt="Toiture végétale">
                     </div>
                 </div>
 
@@ -607,11 +607,11 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>Adjame, quartier S.</span>
+                            <span>....</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>
-                            <span>Livraison : Novembre 2019</span>
+                            <span>Livraison : Novembre </span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-shopping-cart"></i>
@@ -621,10 +621,10 @@ $light_color = "#F5F5F5";
                             <i class="fas fa-ruler-combined"></i>
                             <span>Surface : 45 000 m²</span>
                         </div>
-                        <div class="info-item">
+                        <!-- <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
                             <span>Budget : 85 millions FCFA</span>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="info-box">
@@ -691,7 +691,7 @@ $light_color = "#F5F5F5";
                         <li><a href="travaux-publics.php">Travaux publics</a></li>
                         <li><a href="renovation.php">Rénovation</a></li>
                         <li><a href="amenagement-interieur.php">Aménagement intérieur</a></li>
-                        <li><a href="construction-durable.php">Construction durable</a></li>
+                        <li><a href="location-engins.php">Location d'engins BTP</a></li>
                         <li><a href="gestion-projet.php">Gestion de projet</a></li>
                     </ul>
                 </div>

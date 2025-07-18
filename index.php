@@ -1231,7 +1231,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
         </div>
         <div class="hero-content">
             <h1><?php echo $slogan; ?></h1>
-            <p>YDIA CONSTRUCTION est une entreprise spécialisée dans le BTP (Batiments Travaux Publics), offrant des solutions innovantes et durables pour tous vos projets de construction.</p>
+            <p>YDIA CONSTRUCTION est une entreprise spécialisée dans le BTP (Batiment Travaux Publics), offrant des solutions innovantes et durables pour tous vos projets de construction.</p>
             <div class="hero-btns">
                 <a href="#contact" class="btn">Nous contacter</a>
                 <a href="#services" class="btn btn-outline">Nos services</a>
@@ -1408,7 +1408,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Bureaux modernes">
                     </div>
                     <div class="project-overlay">
-                        <h3>Siège social TechnoSoft</h3>
+                        <h3>Siège social Yadi Groupe</h3>
                         <!-- <p>Yopougon, 2021 - 5 000m² d'espaces de travail</p> -->
                     </div>
                 </div>

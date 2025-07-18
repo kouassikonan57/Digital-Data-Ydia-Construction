@@ -597,8 +597,8 @@ $light_color = "#F5F5F5";
                     </ul>
 
                     <div class="gallery">
-                        <img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Vue extérieure">
-                        <img src="https://images.unsplash.com/photo-1486401899868-0e435ed85128?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Espace de production">
+                        <img src="image/usine (1).jpg" alt="Vue extérieure">
+                        <img src="image/usine (3).jpg" alt="Espace de production">
                         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Toiture végétale">
                     </div>
                 </div>
@@ -612,7 +612,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>
-                            <span>Livraison : Mai 2021</span>
+                            <span>Livraison : ...</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-industry"></i>
@@ -622,10 +622,10 @@ $light_color = "#F5F5F5";
                             <i class="fas fa-ruler-combined"></i>
                             <span>Surface : 12 000 m²</span>
                         </div>
-                        <div class="info-item">
+                        <!-- <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
                             <span>Budget : 32 millions FCFA</span>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="info-box">

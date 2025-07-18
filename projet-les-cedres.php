@@ -567,7 +567,7 @@ $light_color = "#F5F5F5";
     <section class="project-hero">
         <div class="hero-content">
             <h1>Tour résidentielle "Les Cèdres"</h1>
-            <p>Un projet résidentiel haut de gamme au cœur de Côte d'Ivoire</p>
+            <p>Un projet résidentiel haut de gamme au cœur de la Côte d'Ivoire</p>
         </div>
     </section>
 
@@ -608,7 +608,7 @@ $light_color = "#F5F5F5";
                     </ul>
 
                     <div class="gallery">
-                        <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Chantier Les Cèdres">
+                        <img src="image/renov (6).jpeg" alt="Chantier Les Cèdres">
                         <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Façade Les Cèdres">
                         <img src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Espaces communs">
                     </div>
@@ -619,11 +619,11 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>district, Abidjan</span>
+                            <span>....</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>
-                            <span>Livraison : Mars 2022</span>
+                            <span>Livraison : Mars 20..</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-building"></i>
@@ -633,10 +633,10 @@ $light_color = "#F5F5F5";
                             <i class="fas fa-ruler-combined"></i>
                             <span>Surface : 18 500 m²</span>
                         </div>
-                        <div class="info-item">
+                        <!-- <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
                             <span>Budget : 52 millions FCFA</span>
-                        </div>
+                        </div> -->
                         <div class="info-item">
                             <i class="fas fa-user-tie"></i>
                             <span>Maître d'ouvrage : Groupe Immobel</span>

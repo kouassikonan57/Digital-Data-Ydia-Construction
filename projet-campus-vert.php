@@ -563,10 +563,10 @@ $light_color = "#F5F5F5";
         </div>
     </header>
 
-    <section class="project-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')">
+    <section class="project-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/instp.jpg')">
         <div class="hero-content">
-            <h1>Résidence étudiante "Campus Vert"</h1>
-            <p>Un cadre de vie innovant pour les étudiants lyonnais</p>
+            <h1>Institut Pasteur</h1>
+            <p>Une logique de renforcement du système de santé publique et de résilience face aux pandémies</p>
         </div>
     </section>
 
@@ -574,8 +574,8 @@ $light_color = "#F5F5F5";
         <div class="detail-container">
             <div class="detail-grid">
                 <div class="detail-content">
-                    <h2>Concept pédagogique et écologique</h2>
-                    <p>La résidence Campus Vert propose 200 chambres étudiantes conçues comme un véritable écosystème d'apprentissage et de vie durable au cœur du campus universitaire de Lyon.</p>
+                    <h2>Concept pédagogique et sanitaire</h2>
+                    <p>Améliorer les conditions de travail des chercheurs, de sécuriser les installations et d’accroître les capacités de diagnostic et de surveillance épidémiologique</p>
 
                     <h3>Aménagements spécifiques</h3>
                     <ul>
@@ -597,9 +597,9 @@ $light_color = "#F5F5F5";
                     </ul>
 
                     <div class="gallery">
-                        <img src="https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Façade">
+                        <img src="image/renov (6).jpeg" alt="Façade">
                         <img src="https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Espace commun">
-                        <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Salle d'étude">
+                        <img src="image/INSTITUT-PASTEUR.jpg" alt="Salle d'étude">
                     </div>
                 </div>
 
@@ -608,11 +608,11 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>Campus  Tech,</span>
+                            <span>Institut Pasteur</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>
-                            <span>Livraison : Septembre 2020</span>
+                            <span>Livraison : Septembre 2024</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-university"></i>
@@ -622,10 +622,10 @@ $light_color = "#F5F5F5";
                             <i class="fas fa-ruler-combined"></i>
                             <span>Surface : 8 200 m²</span>
                         </div>
-                        <div class="info-item">
+                        <!-- <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
                             <span>Budget : 15 millions FCFA</span>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="info-box">
@@ -692,7 +692,7 @@ $light_color = "#F5F5F5";
                         <li><a href="travaux-publics.php">Travaux publics</a></li>
                         <li><a href="renovation.php">Rénovation</a></li>
                         <li><a href="amenagement-interieur.php">Aménagement intérieur</a></li>
-                        <li><a href="construction-durable.php">Construction durable</a></li>
+                        <li><a href="location-engins.php">Location d'engins BTP</a></li>
                         <li><a href="gestion-projet.php">Gestion de projet</a></li>
                     </ul>
                 </div>

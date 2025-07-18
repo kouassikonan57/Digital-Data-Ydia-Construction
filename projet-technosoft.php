@@ -565,7 +565,7 @@ $light_color = "#F5F5F5";
 
     <section class="project-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')">
         <div class="hero-content">
-            <h1>Siège social TechnoSoft</h1>
+            <h1>Siège social Yadi Groupe</h1>
             <p>Un écrin technologique pour l'innovation</p>
         </div>
     </section>
@@ -575,14 +575,14 @@ $light_color = "#F5F5F5";
             <div class="detail-grid">
                 <div class="detail-content">
                     <h2>Un bâtiment intelligent</h2>
-                    <p>Le nouveau siège de TechnoSoft à Yopougon incarne la vision technologique de l'entreprise avec 5 000 m² d'espaces de travail modulables et connectés.</p>
+                    <p>Le nouveau siège de Yadi Groupe à Cocody incarne la vision technologique de l'entreprise avec 5 000 m² d'espaces de travail modulables et connectés.</p>
 
                     <h3>Caractéristiques</h3>
                     <ul>
                         <li>Bâtiment intelligent (IoT, gestion centralisée)</li>
                         <li>Espace de coworking et laboratoire R&D</li>
                         <li>Auditorium de 200 places</li>
-                        <li>Toit-terrasse avec vue sur Yopougon</li>
+                        <li>Toit-terrasse avec vue sur Cocody</li>
                         <li>Parking à vélos sécurisé (100 places)</li>
                     </ul>
 
@@ -599,7 +599,7 @@ $light_color = "#F5F5F5";
                     <div class="gallery">
                         <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Façade">
                         <img src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Espaces de travail">
-                        <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Hall d'entrée">
+                        <img src="image/la-plus-belle-terrasse.jpg" alt="Hall d'entrée">
                     </div>
                 </div>
 
@@ -608,11 +608,11 @@ $light_color = "#F5F5F5";
                         <h3>Informations clés</h3>
                         <div class="info-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>Yopougon Euratlantique</span>
+                            <span>Cocody, rond point CNPS</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-calendar-alt"></i>
-                            <span>Livraison : Juin 2021</span>
+                            <span>Livraison : Juin 2024</span>
                         </div>
                         <div class="info-item">
                             <i class="fas fa-desktop"></i>
@@ -622,10 +622,10 @@ $light_color = "#F5F5F5";
                             <i class="fas fa-ruler-combined"></i>
                             <span>Surface : 5 000 m²</span>
                         </div>
-                        <div class="info-item">
+                        <!-- <div class="info-item">
                             <i class="fas fa-euro-sign"></i>
                             <span>Budget : 18 millions FCFA</span>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="info-box">
@@ -692,7 +692,7 @@ $light_color = "#F5F5F5";
                         <li><a href="travaux-publics.php">Travaux publics</a></li>
                         <li><a href="renovation.php">Rénovation</a></li>
                         <li><a href="amenagement-interieur.php">Aménagement intérieur</a></li>
-                        <li><a href="construction-durable.php">Construction durable</a></li>
+                        <li><a href="location-engins.php">Location d'engins BTP</a></li>
                         <li><a href="gestion-projet.php">Gestion de projet</a></li>
                     </ul>
                 </div>
