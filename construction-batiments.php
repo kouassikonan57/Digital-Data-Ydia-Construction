@@ -1212,7 +1212,7 @@ $light_color = "#F5F5F5";
                 <!-- Projet 6 -->
                 <div class="building-card">
                     <div class="building-img">
-                        <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Complexe sportif">
+                        <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Complexe sportif">
                     </div>
                     <div class="building-content">
                         <h3>Complexe sportif municipal</h3>

@@ -1415,7 +1415,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
                 <div class="project-card" data-category="batiment">
                     <div class="project-img">
-                        <img src="image/centre commercial.jpg" alt="Centre commercial">
+                        <img src="image/centre-comm.png" alt="Centre commercial">
                     </div>
                     <div class="project-overlay">
                         <h3>Centre commercial</h3>
