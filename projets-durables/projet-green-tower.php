@@ -1107,7 +1107,7 @@ $light_color = "#F5F5F5";
         <div class="project-intro">
             <h2 class="section-title">Un symbole de durabilité urbaine</h2>
             <p style="max-width:800px; margin:0 auto 40px; text-align:center;">
-                La Green Tower, achevée en 2022, redéfinit les standards de la construction durable en Afrique de l'Ouest avec ses innovations écologiques et son design bioclimatique.
+                La Green Tower, achevée en 2022, redéfinit les standards de la Location d'engins BTP en Afrique de l'Ouest avec ses innovations écologiques et son design bioclimatique.
             </p>
 
             <div class="project-specs">
@@ -1203,7 +1203,7 @@ $light_color = "#F5F5F5";
                         <li><a href="../travaux-publics.php">Travaux publics</a></li>
                         <li><a href="../renovation.php">Rénovation</a></li>
                         <li><a href="../amenagement-interieur.php">Aménagement intérieur</a></li>
-                        <li><a href="../construction-durable.php">Construction durable</a></li>
+                        <li><a href="../location-engins.php">Location d'engins BTP</a></li>
                         <li><a href="../gestion-projet.php">Gestion de projet</a></li>
                     </ul>
                 </div>

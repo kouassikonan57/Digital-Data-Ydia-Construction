@@ -1383,7 +1383,7 @@ $light_color = "#F5F5F5";
                         <li><a href="travaux-publics.php">Travaux publics</a></li>
                         <li><a href="renovation.php">Rénovation</a></li>
                         <li><a href="amenagement-interieur.php">Aménagement intérieur</a></li>
-                        <li><a href="construction-durable.php">Construction durable</a></li>
+                        <li><a href="location-engins.php">Location d'engins BTP</a></li>
                         <li><a href="gestion-projet.php">Gestion de projet</a></li>
                     </ul>
                 </div>

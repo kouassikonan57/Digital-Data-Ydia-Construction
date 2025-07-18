@@ -1528,7 +1528,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         </div>
                         <div class="info-text">
                             <h4>Téléphone</h4>
-                            <p>+225 07 23 45 67 89</p>
+                            <p>(+225) 27 22 39 14 40</p>
                         </div>
                     </div>
 
