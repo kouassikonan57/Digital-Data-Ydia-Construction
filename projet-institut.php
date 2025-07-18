@@ -1,6 +1,6 @@
 <?php
 // Configuration de base
-$page_title = "YDIA CONSTRUCTION - Hôtel Le Majestic";
+$page_title = "YDIA CONSTRUCTION - Institut pasteur";
 $company_name = "YDIA CONSTRUCTION";
 $slogan = "Bâtissons l'avenir ensemble";
 $primary_color = "#FF6B00";
@@ -1075,10 +1075,10 @@ $light_color = "#F5F5F5";
     </header>
 
     <!-- Hero Section du projet -->
-    <section class="hero" style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;">
+    <section class="hero" style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/renovation restaurant.jpg') no-repeat center center/cover;">
         <div class="hero-content">
-            <h1>Hôtel "Le Majestic"</h1>
-            <p>Rénovation complète d'un hôtel patrimonial classé 5 étoiles à Lyon</p>
+            <h1>Institut Pasteur"</h1>
+            <p>Rénovation complète d'une école</p>
         </div>
     </section>
 
@@ -1094,7 +1094,7 @@ $light_color = "#F5F5F5";
                 <div class="meta-item" style="text-align: center;">
                     <i class="fas fa-calendar-alt" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 10px;"></i>
                     <h3 style="margin-bottom: 5px;">Année</h3>
-                    <p>2020</p>
+                    <p>2024</p>
                 </div>
                 <div class="meta-item" style="text-align: center;">
                     <i class="fas fa-tags" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 10px;"></i>
@@ -1104,13 +1104,13 @@ $light_color = "#F5F5F5";
                 <div class="meta-item" style="text-align: center;">
                     <i class="fas fa-expand" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 10px;"></i>
                     <h3 style="margin-bottom: 5px;">Surface</h3>
-                    <p>8 500 m²</p>
+                    <p>...</p>
                 </div>
             </div>
 
             <div class="project-description" style="margin-bottom: 60px;">
                 <h2 class="section-title">Description du projet</h2>
-                <p style="margin-bottom: 20px; text-align: justify;">La rénovation de l'hôtel "Le Majestic", joyau architectural du 19ème siècle situé en plein cœur de Lyon, représentait un défi de taille pour YDIA CONSTRUCTION. Ce projet ambitieux visait à redonner toute sa splendeur à ce bâtiment classé tout en l'équipant des technologies les plus modernes.</p>
+                <p style="margin-bottom: 20px; text-align: justify;">Le projet vise la réhabilitation complète un département (Département des Virus Epidémique en abrégé DVE) de l’Institut du site d’Adiopodoumé. La réhabilitation consistait à modernisant les bâtiments existants, renforcer les infrastructures électriques et sanitaires, et installer des équipements de bureau de qualité. L’objectif était d’améliorer les conditions de travail des chercheurs, de sécuriser les installations et d’accroître les capacités de diagnostic et de surveillance épidémiologique. Ce projet s’inscrit dans une logique de renforcement du système de santé publique et de résilience face aux pandémies.</p>
 
                 <div class="project-highlights" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
                     <div class="highlight-card" style="background-color: <?php echo $light_color; ?>; padding: 25px; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
@@ -1121,7 +1121,7 @@ $light_color = "#F5F5F5";
                     <div class="highlight-card" style="background-color: <?php echo $light_color; ?>; padding: 25px; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
                         <i class="fas fa-spa" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 15px;"></i>
                         <h3 style="margin-bottom: 15px;">Spa de luxe</h3>
-                        <p style="text-align: justify;">Création d'un espace bien-être de 800m² avec piscine intérieure, hammam, sauna et 8 cabines de soins haut de gamme.</p>
+                        <p style="text-align: justify;">Création d'un espace bien-être avec système de santé publique et de résilience face aux pandémies</p>
                     </div>
                     <div class="highlight-card" style="background-color: <?php echo $light_color; ?>; padding: 25px; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
                         <i class="fas fa-shield-alt" style="font-size: 2rem; color: <?php echo $primary_color; ?>; margin-bottom: 15px;"></i>
@@ -1135,22 +1135,22 @@ $light_color = "#F5F5F5";
                 <h2 class="section-title">Galerie du projet</h2>
                 <div class="gallery-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-top: 30px;">
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Hôtel Le Majestic - Façade" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+                        <img src="image/renov (1).jpeg" alt="Institut Pasteur" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
                     </div>
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Hôtel Le Majestic - Lobby" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+                        <img src="image/renov (5).jpeg" alt="Institut Pasteur" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
                     </div>
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Hôtel Le Majestic - Chambre" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+                        <img src="image/renov (7).jpeg" alt="Institut Pasteur" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
                     </div>
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1596178065887-1198b6148b2b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Hôtel Le Majestic - Spa" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+                        <img src="image/renov (9).jpeg" alt="Institut Pasteur" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
                     </div>
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Hôtel Le Majestic - Restaurant" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+                        <img src="image/renov (4).jpeg" alt="Institut Pasteur" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
                     </div>
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1564501049445-7dfbf4f3dee0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Hôtel Le Majestic - Suite" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+                        <img src="image/renov (8).jpeg" alt="Institut Pasteur" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
                     </div>
                 </div>
             </div>
@@ -1159,15 +1159,15 @@ $light_color = "#F5F5F5";
                 <blockquote style="font-style: italic; font-size: 1.2rem; margin-bottom: 20px;">
                     "YDIA CONSTRUCTION a su concilier avec brio la préservation de notre patrimoine historique et l'intégration des technologies les plus modernes. Leur expertise en rénovation de bâtiments classés a été déterminante pour ce projet complexe."
                 </blockquote>
-                <div class="author" style="display: flex; align-items: center;">
+                <!-- <div class="author" style="display: flex; align-items: center;">
                     <div class="author-img" style="width: 60px; height: 60px; border-radius: 50%; overflow: hidden; margin-right: 15px;">
                         <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Directeur de l'hôtel" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div class="author-info">
                         <h3 style="margin-bottom: 5px;">Pierre D.</h3>
-                        <p>Directeur de l'Hôtel Le Majestic</p>
+                        <p>Directeur </p>
                     </div>
-                </div>
+                </div> -->
             </div>
 
             <div class="project-cta" style="text-align: center;">
@@ -1216,7 +1216,7 @@ $light_color = "#F5F5F5";
                         <li><a href="travaux-publics.php">Travaux publics</a></li>
                         <li><a href="renovation.php">Rénovation</a></li>
                         <li><a href="amenagement-interieur.php">Aménagement intérieur</a></li>
-                        <li><a href="construction-durable.php">Construction durable</a></li>
+                        <li><a href="location-engins.php">Location d'engins BTP</a></li>
                         <li><a href="gestion-projet.php">Gestion de projet</a></li>
                     </ul>
                 </div>

@@ -1245,9 +1245,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
             <h2 class="section-title">Qui sommes-nous</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p>Fondée en 2010, YDIA CONSTRUCTION s'est rapidement imposée comme un acteur majeur dans le secteur du BTP en Abidjan. Notre engagement envers l'excellence et l'innovation nous a permis de réaliser des centaines de projets réussis à travers le pays.</p>
-                    <p>Nous croyons en une approche collaborative avec nos clients, en mettant l'accent sur la qualité, la sécurité et le respect des délais. Notre équipe d'experts dévoués travaille sans relâche pour transformer vos visions en réalité.</p>
-                    <p>Avec plus de 200 employés qualifiés et un chiffre d'affaires annuel de 50 millions d'euros, nous avons les ressources et l'expertise nécessaires pour mener à bien des projets de toutes tailles et complexités.</p>
+                    <p>YDIA CONSTRUCTION est une filiale de YADI GROUP, créée en 2022 pour accompagner la diversification de nos activités et répondre aux besoins croissants en infrastructures modernes, tant en milieu urbain que rural.</p>
+                    <p>Spécialisée dans le Bâtiment et les Travaux Publics (BTP), notre entreprise s'appuie sur une équipe qualifiée composée d’ingénieurs, de techniciens et d’ouvriers expérimentés.</p>
+                    <p>Notre approche allie expertise technique, rigueur professionnelle et innovation, avec pour objectif de livrer des projets durables, fonctionnels et adaptés aux exigences de nos clients.</p>
+                    <p>Nous plaçons la qualité, la sécurité et le respect des délais au cœur de chacune de nos réalisations, dans une logique de collaboration transparente et de satisfaction durable.</p>
                     <a href="#services" class="btn" style="margin-top: 20px;">Découvrez nos services</a>
                 </div>
 
@@ -1263,11 +1264,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
         <div class="container">
             <div class="stats-container">
                 <div class="stat-item">
-                    <div class="stat-number" data-target="15" data-suffix="+">0</div>
+                    <div class="stat-number" data-target="3" data-suffix="+">0</div>
                     <div class="stat-text">Ans d'expérience</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number" data-target="250" data-suffix="+">0</div>
+                    <div class="stat-number" data-target="100" data-suffix="+">0</div>
                     <div class="stat-text">Projets réalisés</div>
                 </div>
                 <div class="stat-item">
@@ -1345,7 +1346,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
                 <div class="service-card">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Gestion de projet">
+                        <img src="image/gestion-de-projets.jpg" alt="Gestion de projet">
                     </div>
                     <div class="service-content">
                         <h3>Gestion de projet</h3>
@@ -1394,10 +1395,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
                 <div class="project-card" data-category="renovation">
                     <div class="project-img">
-                        <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Rénovation d'hôtel">
+                        <img src="image/renov (9).jpeg" alt="Rénovation d'hôtel">
                     </div>
                     <div class="project-overlay">
-                        <h3>Hôtel "Le Majestic"</h3>
+                        <h3>Institut Pasteur</h3>
                         <!-- <p>Lyon, 2020 - Rénovation complète 5 étoiles</p> -->
                     </div>
                 </div>
@@ -1484,12 +1485,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         <div class="partner">
                             <img src="image/partenaires/enez-cam-logo.jpg" alt="ENEZ CAM">
                         </div>
-                        <div class="partner">
+                        <!-- <div class="partner">
                             <img src="chemin/vers/logo4.png" alt="Partenaire 4">
                         </div>
                         <div class="partner">
                             <img src="chemin/vers/logo5.png" alt="Partenaire 5">
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

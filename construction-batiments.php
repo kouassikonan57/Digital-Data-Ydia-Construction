@@ -1150,7 +1150,7 @@ $light_color = "#F5F5F5";
                         <h3>Centre commercial "Les Terrasses"</h3>
                         <div class="building-meta">
                             <span><i class="fas fa-map-marker-alt"></i> Adjame</span>
-                            <span><i class="fas fa-calendar-alt"></i> 2019</span>
+                            <span><i class="fas fa-calendar-alt"></i> 20..</span>
                             <span><i class="fas fa-shopping-cart"></i> Commercial</span>
                         </div>
                         <p>Réalisation d'un complexe commercial de 45 000m² intégrant espaces verts et solutions énergétiques durables.</p>
@@ -1167,7 +1167,7 @@ $light_color = "#F5F5F5";
                         <h3>Siège social TechnoSoft</h3>
                         <div class="building-meta">
                             <span><i class="fas fa-map-marker-alt"></i> Yopougon</span>
-                            <span><i class="fas fa-calendar-alt"></i> 2021</span>
+                            <span><i class="fas fa-calendar-alt"></i> 20..</span>
                             <span><i class="fas fa-building"></i> Bureaux</span>
                         </div>
                         <p>Construction du siège social de 5 000m² avec technologies intelligentes pour une gestion optimale de l'espace.</p>
@@ -1181,13 +1181,13 @@ $light_color = "#F5F5F5";
                         <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Résidence étudiante">
                     </div>
                     <div class="building-content">
-                        <h3>Résidence étudiante "Campus Vert"</h3>
+                        <h3>Institut Pasteur</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Lyon</span>
-                            <span><i class="fas fa-calendar-alt"></i> 2020</span>
-                            <span><i class="fas fa-university"></i> Éducation</span>
+                            <span><i class="fas fa-map-marker-alt"></i> Abidjan</span>
+                            <span><i class="fas fa-calendar-alt"></i> 2024</span>
+                            <span><i class="fas fa-university"></i> Local</span>
                         </div>
-                        <p>Construction d'une résidence étudiante de 200 chambres avec espaces communs et bibliothèque intégrée.</p>
+                        <p>Réhabilitation du departement des virus epidemie DVE de l'Institut Pasteur Adiopodoumé.</p>
                         <a href="projet-campus-vert.php" class="btn btn-outline" style="margin-top: 15px; display: inline-block;">Détails du projet</a>
                     </div>
                 </div>
@@ -1200,8 +1200,8 @@ $light_color = "#F5F5F5";
                     <div class="building-content">
                         <h3>Usine durable GreenTech</h3>
                         <div class="building-meta">
-                            <span><i class="fas fa-map-marker-alt"></i> Nantes</span>
-                            <span><i class="fas fa-calendar-alt"></i> 2021</span>
+                            <span><i class="fas fa-map-marker-alt"></i> ...</span>
+                            <span><i class="fas fa-calendar-alt"></i> 20..</span>
                             <span><i class="fas fa-industry"></i> Industriel</span>
                         </div>
                         <p>Construction d'une usine écologique avec système de récupération des eaux et toiture végétalisée.</p>

@@ -1115,20 +1115,20 @@ $light_color = "#F5F5F5";
                     <div class="project-details">
                         <div class="detail-item">
                             <h4>Localisation</h4>
-                            <p>Bingerville, Abidjan</p>
+                            <p>Abidjan</p>
                         </div>
                         <div class="detail-item">
                             <h4>Année</h4>
-                            <p>2021</p>
+                            <p>20..</p>
                         </div>
                         <div class="detail-item">
                             <h4>Longueur</h4>
-                            <p>850 mètres</p>
+                            <p>....</p>
                         </div>
-                        <div class="detail-item">
+                        <!-- <div class="detail-item">
                             <h4>Budget</h4>
-                            <p>45 millions FCFA</p>
-                        </div>
+                            <p>....</p>
+                        </div> -->
                     </div>
                     <a href="travaux-publics/projet-pont-a14.php" class="btn">Voir les détails</a>
                 </div>
@@ -1144,20 +1144,20 @@ $light_color = "#F5F5F5";
                     <div class="project-details">
                         <div class="detail-item">
                             <h4>Localisation</h4>
-                            <p>Cocody, Abidjan</p>
+                            <p>Abidjan</p>
                         </div>
                         <div class="detail-item">
                             <h4>Année</h4>
-                            <p>2018</p>
+                            <p>20..</p>
                         </div>
                         <div class="detail-item">
                             <h4>Longueur</h4>
-                            <p>12 kilomètres</p>
+                            <p>....</p>
                         </div>
-                        <div class="detail-item">
+                        <!-- <div class="detail-item">
                             <h4>Budget</h4>
                             <p>28 millions FCFA</p>
-                        </div>
+                        </div> -->
                     </div>
                     <a href="travaux-publics/projet-assainissement.php" class="btn">Voir les détails</a>
                 </div>
@@ -1168,25 +1168,25 @@ $light_color = "#F5F5F5";
                     <img src="image/voie rapide urbaine.jpg" alt="Voie rapide urbaine">
                 </div>
                 <div class="project-content">
-                    <h3>Voie rapide urbaine Lyon-Est</h3>
+                    <h3>Voie rapide urbaine </h3>
                     <p>Aménagement d'une voie rapide de 8 km en zone urbaine dense, comprenant 3 échangeurs, 2 tunnels et des dispositifs de réduction sonore avancés. Ce projet a considérablement amélioré la fluidité du trafic dans l'est lyonnais.</p>
                     <div class="project-details">
                         <div class="detail-item">
                             <h4>Localisation</h4>
-                            <p>Auto-route, Abidjan</p>
+                            <p>Abidjan</p>
                         </div>
                         <div class="detail-item">
                             <h4>Année</h4>
-                            <p>2019</p>
+                            <p>20..</p>
                         </div>
                         <div class="detail-item">
                             <h4>Longueur</h4>
-                            <p>8 kilomètres</p>
+                            <p>....</p>
                         </div>
-                        <div class="detail-item">
+                        <!-- <div class="detail-item">
                             <h4>Budget</h4>
                             <p>62 millions FCFA</p>
-                        </div>
+                        </div> -->
                     </div>
                     <a href="travaux-publics/projet-voie.php" class="btn">Voir les détails</a>
                 </div>

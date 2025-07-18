@@ -913,7 +913,7 @@ $light_color = "#F5F5F5";
             <h1>Siège Social Groupe Financier</h1>
             <div class="meta">
                 <div class="meta-item">18 mois</div>
-                <div class="meta-item">28MFCFA</div>
+                <div class="meta-item">.. FCFA</div>
                 <div class="meta-item">12 000m²</div>
             </div>
             <p>Un bâtiment intelligent conçu pour favoriser la collaboration et l'innovation</p>
@@ -942,7 +942,7 @@ $light_color = "#F5F5F5";
                         <p>Mètres carrés</p>
                     </div>
                     <div class="cas-stat">
-                        <h3>28MFCFA</h3>
+                        <h3>.. FCFA</h3>
                         <p>Budget total</p>
                     </div>
                     <div class="cas-stat">
@@ -988,7 +988,7 @@ $light_color = "#F5F5F5";
 
             <div class="cas-testimonial">
                 <p>"YDIA Construction a fait preuve d'une flexibilité et d'un professionnalisme remarquables dans la gestion de ce projet complexe. Leur capacité à s'adapter à nos contraintes opérationnelles tout en respectant nos exigences de qualité et de sécurité a été déterminante pour le succès de cette opération."</p>
-                <div class="author">- Marie Lambert, Directrice des Opérations Groupe Financier</div>
+                <!-- <div class="author">- Marie Lambert, Directrice des Opérations Groupe Financier</div> -->
             </div>
 
             <div class="cas-section">

@@ -1136,25 +1136,25 @@ $light_color = "#F5F5F5";
 
             <div class="project-gallery">
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Rénovation d'hôtel">
+                    <img src="image/renov (9).jpeg" alt="Rénovation d'hôtel">
                     <div class="gallery-overlay">
-                        <h3>Hôtel "Le Majestic"</h3>
-                        <p>Rénovation complète d'un hôtel historique 5 étoiles à Lyon</p>
+                        <h3>Institut Pasteur Adiopodoume, Abidjan"</h3>
+                        <p>Rénovation complète d'une école à Adiopodoumé</p>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Rénovation d'appartement">
+                    <img src="image/renov (7).jpeg" alt="Rénovation d'appartement">
                     <div class="gallery-overlay">
-                        <h3>Appartement Haussmannien</h3>
-                        <p>Réhabilitation d'un appartement Côte d'Ivoireien avec conservation des éléments d'origine</p>
+                        <h3>Institut Pasteur Adiopodoume, Abidjan</h3>
+                        <p>Réhabilitation d'un appartement Côte d'Ivoire avec conservation des éléments d'origine</p>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600121848594-d8644e57abab?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Rénovation de bureau">
+                    <img src="image/renov (2).jpeg" alt="Rénovation de bureau">
                     <div class="gallery-overlay">
-                        <h3>Siège Social TechnoSoft</h3>
+                        <h3>Institut Pasteur Adiopodoume, Abidjan</h3>
                         <p>Transformation d'un ancien entrepôt en espaces de travail modernes</p>
                     </div>
                 </div>
@@ -1162,23 +1162,23 @@ $light_color = "#F5F5F5";
                 <div class="gallery-item">
                     <img src="image/restaurant-interieur.jpg" alt="Rénovation de restaurant">
                     <div class="gallery-overlay">
-                        <h3>Restaurant "La Terrasse"</h3>
+                        <h3>Institut Pasteur Adiopodoume, Abidjan"</h3>
                         <p>Rénovation complète avec extension de la surface et création d'une véranda</p>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Rénovation de maison">
+                    <img src="image/renov (6).jpeg" alt="Rénovation de maison">
                     <div class="gallery-overlay">
-                        <h3>Maison de Campagne</h3>
+                        <h3>Institut Pasteur Adiopodoume, Abidjan</h3>
                         <p>Réhabilitation complète avec amélioration de la performance énergétique</p>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Rénovation de commerce">
+                    <img src="image/renov (4).jpeg" alt="Rénovation de commerce">
                     <div class="gallery-overlay">
-                        <h3>Boutique "L'Atelier"</h3>
+                        <h3>Institut Pasteur Adiopodoume, Abidjan</h3>
                         <p>Transformation d'un ancien local industriel en espace commercial haut de gamme</p>
                     </div>
                 </div>

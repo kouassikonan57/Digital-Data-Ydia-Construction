@@ -1075,7 +1075,7 @@ $light_color = "#F5F5F5";
             <p class="text-center" style="max-width: 800px; margin: 0 auto 50px;">Explorez notre portfolio complet de réalisations à travers la Abidjan. Chaque projet reflète notre engagement envers l'excellence, l'innovation et la satisfaction client.</p>
 
             <!-- Projet 1 -->
-            <div class="project-item">
+            <!-- <div class="project-item">
                 <div class="project-img">
                     <img src="https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Tour résidentielle Les Cèdres">
                 </div>
@@ -1089,10 +1089,10 @@ $light_color = "#F5F5F5";
                     <p>Construction d'une tour résidentielle de haut standing comprenant 120 appartements répartis sur 25 étages. Ce projet inclut des espaces communs premium (piscine, salle de sport, spa) et des technologies intelligentes pour une gestion optimale de l'énergie.</p>
                     <a href="projet-les-cedres.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Projet 2 -->
-            <div class="project-item">
+            <!-- <div class="project-item">
                 <div class="project-img">
                     <img src="image/route a14.jpg" alt="Pont autoroutier A14">
                 </div>
@@ -1106,27 +1106,27 @@ $light_color = "#F5F5F5";
                     <p>Conception et construction d'un pont autoroutier de 850 mètres enjambant la vallée de la Seine. Ce projet complexe a nécessité des techniques innovantes pour minimiser l'impact environnemental tout en garantissant une structure robuste pour les décennies à venir.</p>
                     <a href="travaux-publics/projet-pont-a14.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Projet 3 -->
             <div class="project-item">
                 <div class="project-img">
-                    <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Hôtel Le Majestic">
+                    <img src="image/renov (9).jpeg" alt="Hôtel Le Majestic">
                 </div>
                 <div class="project-content">
-                    <h2>Hôtel "Le Majestic"</h2>
+                    <h2>Institut Pasteur</h2>
                     <div class="project-meta">
-                        <span><i class="fas fa-map-marker-alt"></i> Lyon, Abidjan</span>
-                        <span><i class="fas fa-calendar-alt"></i> 2020</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Adiopodoumé, Abidjan</span>
+                        <span><i class="fas fa-calendar-alt"></i> 2024</span>
                         <span><i class="fas fa-hotel"></i> Rénovation</span>
                     </div>
-                    <p>Rénovation complète d'un hôtel patrimonial classé 5 étoiles. Nous avons préservé les éléments architecturaux historiques tout en intégrant des technologies modernes et des normes de sécurité actuelles. Le projet comprenait également la création d'un spa de luxe.</p>
-                    <a href="projet-le-majestic.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
+                    <p>éhabilitation complète un département (Département des Virus Epidémique en abrégé DVE) de l’Institut du site d’Adiopodoumé. La réhabilitation consistait à modernisant les bâtiments existants, renforcer les infrastructures électriques et sanitaires, et installer des équipements de bureau de qualité. L’objectif était d’améliorer les conditions de travail des chercheurs, de sécuriser les installations et d’accroître les capacités de diagnostic et de surveillance épidémiologique.</p>
+                    <a href="projet-institut.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
             </div>
 
             <!-- Projet 4 -->
-            <div class="project-item">
+            <!-- <div class="project-item">
                 <div class="project-img">
                     <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Siège social TechnoSoft">
                 </div>
@@ -1140,10 +1140,10 @@ $light_color = "#F5F5F5";
                     <p>Construction du siège social de TechnoSoft sur 5 000m². Ce bâtiment intelligent intègre des solutions technologiques avancées pour une gestion optimale de l'espace et de l'énergie. Conception modulaire permettant une grande flexibilité d'aménagement.</p>
                     <a href="projet-technosoft.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Projet 5 -->
-            <div class="project-item">
+            <!-- <div class="project-item">
                 <div class="project-img">
                     <img src="image/centre commercial.jpg" alt="Centre commercial Les Terrasses">
                 </div>
@@ -1157,7 +1157,7 @@ $light_color = "#F5F5F5";
                     <p>Réalisation d'un centre commercial de 45 000m² comprenant 120 boutiques, un hypermarché, un cinéma multiplexe et des espaces de restauration. Le design innovant intègre des espaces verts et des solutions de gestion énergétique durable.</p>
                     <a href="projet-les-terrasses.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Projet 6 -->
             <div class="project-item">
@@ -1167,11 +1167,11 @@ $light_color = "#F5F5F5";
                 <div class="project-content">
                     <h2>Réseau d'assainissement</h2>
                     <div class="project-meta">
-                        <span><i class="fas fa-map-marker-alt"></i> Cocody, Abidjan</span>
-                        <span><i class="fas fa-calendar-alt"></i> 2018</span>
+                        <span><i class="fas fa-map-marker-alt"></i> ...., ....</span>
+                        <span><i class="fas fa-calendar-alt"></i> ....</span>
                         <span><i class="fas fa-water"></i> Infrastructure</span>
                     </div>
-                    <p>Modernisation et extension du réseau d'assainissement sur 12km dans le centre-ville historique de Cocody. Ce projet délicat a nécessité des techniques de micro-tunnelage pour préserver le patrimoine tout en améliorant les infrastructures.</p>
+                    <p>Modernisation et extension du réseau d'assainissement sur ... dans le centre-ville historique de .... Ce projet délicat a nécessité des techniques de micro-tunnelage pour préserver le patrimoine tout en améliorant les infrastructures.</p>
                     <a href="travaux-publics/projet-assainissement.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
             </div>

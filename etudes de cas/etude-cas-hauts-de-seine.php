@@ -910,7 +910,7 @@ $light_color = "#F5F5F5";
             <h1>Complexe Résidentiel "Les Hauts de Seine"</h1>
             <div class="meta">
                 <div class="meta-item">24 mois</div>
-                <div class="meta-item">35MFCFA</div>
+                <div class="meta-item">.. FCFA</div>
                 <div class="meta-item">120 logements</div>
             </div>
             <p>Un projet résidentiel ambitieux livré dans les délais malgré des contraintes complexes</p>
@@ -939,7 +939,7 @@ $light_color = "#F5F5F5";
                         <p>Logements</p>
                     </div>
                     <div class="cas-stat">
-                        <h3>35MFCFA</h3>
+                        <h3>.. FCFA</h3>
                         <p>Budget total</p>
                     </div>
                     <div class="cas-stat">
@@ -985,7 +985,7 @@ $light_color = "#F5F5F5";
 
             <div class="cas-testimonial">
                 <p>"La gestion exemplaire de YDIA Construction sur ce projet complexe a permis de livrer un produit de qualité dans les délais, malgré les nombreuses contraintes. Leur approche proactive et leur transparence ont été déterminantes pour le succès de l'opération."</p>
-                <div class="author">- Jean Dupont, Directeur Général Promoteur Immobilier</div>
+                <!-- <div class="author">- Jean Dupont, Directeur Général Promoteur Immobilier</div> -->
             </div>
 
             <div class="cas-section">

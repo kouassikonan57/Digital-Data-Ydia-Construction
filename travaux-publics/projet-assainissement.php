@@ -1475,37 +1475,37 @@ $light_color = "#F5F5F5";
                 <div class="timeline">
                     <div class="timeline-item left">
                         <div class="timeline-content">
-                            <div class="timeline-date">Janvier 2018</div>
+                            <div class="timeline-date">Janvier </div>
                             <p>Diagnostic complet du réseau existant par caméra et sonde ultrasonique</p>
                         </div>
                     </div>
                     <div class="timeline-item right">
                         <div class="timeline-content">
-                            <div class="timeline-date">Avril 2018</div>
+                            <div class="timeline-date">Avril </div>
                             <p>Phase 1 : Secteur Capitole - Pose de 3.2 km de nouvelles canalisations</p>
                         </div>
                     </div>
                     <div class="timeline-item left">
                         <div class="timeline-content">
-                            <div class="timeline-date">Septembre 2018</div>
+                            <div class="timeline-date">Septembre </div>
                             <p>Modernisation de la station de pompage Saint-Pierre</p>
                         </div>
                     </div>
                     <div class="timeline-item right">
                         <div class="timeline-content">
-                            <div class="timeline-date">Janvier 2019</div>
+                            <div class="timeline-date">Janvier </div>
                             <p>Phase 2 : Secteur Saint-Étienne - Travaux complexes en zone patrimoniale</p>
                         </div>
                     </div>
                     <div class="timeline-item left">
                         <div class="timeline-content">
-                            <div class="timeline-date">Juin 2019</div>
+                            <div class="timeline-date">Juin </div>
                             <p>Mise en service du système de monitoring intelligent</p>
                         </div>
                     </div>
                     <div class="timeline-item right">
                         <div class="timeline-content">
-                            <div class="timeline-date">Octobre 2019</div>
+                            <div class="timeline-date">Octobre </div>
                             <p>Livraison finale et formation des équipes municipales</p>
                         </div>
                     </div>
@@ -1514,9 +1514,9 @@ $light_color = "#F5F5F5";
                 <div class="project-testimonial">
                     <div class="testimonial-content">
                         "La collaboration avec YDIA Construction sur ce projet complexe a été exemplaire. Leur capacité à adapter les techniques de pose aux contraintes archéologiques et patrimoniales du centre-ville a été déterminante pour le succès de l'opération."
-                        <div class="testimonial-author">
+                        <!-- <div class="testimonial-author">
                             Marie Lambert, Directrice des Services Techniques - Mairie de Cocody
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -1526,27 +1526,27 @@ $light_color = "#F5F5F5";
                     <h3>Informations clés</h3>
                     <div class="info-item">
                         <h4>Client</h4>
-                        <p>Mairie de Cocody - Service Assainissement</p>
+                        <p>Service Assainissement</p>
                     </div>
                     <div class="info-item">
                         <h4>Localisation</h4>
-                        <p>Centre-ville de Cocody, Abidjan</p>
+                        <p>Centre-ville de ..., ...</p>
                     </div>
                     <div class="info-item">
                         <h4>Date</h4>
-                        <p>2018 - 2019 (18 mois)</p>
+                        <p>.... - .... (18 mois)</p>
                     </div>
                     <div class="info-item">
                         <h4>Budget</h4>
-                        <p>28 millions FCFA</p>
+                        <p>....</p>
                     </div>
                     <div class="info-item">
                         <h4>Longueur réseau</h4>
-                        <p>12 kilomètres</p>
+                        <p>.....</p>
                     </div>
                     <div class="info-item">
                         <h4>Débit maximal</h4>
-                        <p>5 m³/seconde</p>
+                        <p>....</p>
                     </div>
                 </div>
 
@@ -1554,15 +1554,15 @@ $light_color = "#F5F5F5";
                     <h3>Chiffres clés</h3>
                     <div class="info-item">
                         <h4>Canaux posés</h4>
-                        <p>12 000 mètres linéaires</p>
+                        <p>....</p>
                     </div>
                     <div class="info-item">
                         <h4>Stations de pompage</h4>
-                        <p>3 unités modernisées</p>
+                        <p>....</p>
                     </div>
                     <div class="info-item">
                         <h4>Capteurs IoT</h4>
-                        <p>85 unités installées</p>
+                        <p>....</p>
                     </div>
                     <div class="info-item">
                         <h4>Effectif maximal</h4>
