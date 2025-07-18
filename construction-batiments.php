@@ -1147,7 +1147,7 @@ $light_color = "#F5F5F5";
                         <img src="image/terrasse.jpg" alt="Centre commercial">
                     </div>
                     <div class="building-content">
-                        <h3>Centre commercial "Les Terrasses"</h3>
+                        <h3>Centre commercial</h3>
                         <div class="building-meta">
                             <span><i class="fas fa-map-marker-alt"></i>....</span>
                             <span><i class="fas fa-calendar-alt"></i> 20..</span>

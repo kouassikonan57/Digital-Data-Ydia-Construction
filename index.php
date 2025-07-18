@@ -1418,7 +1418,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         <img src="image/centre commercial.jpg" alt="Centre commercial">
                     </div>
                     <div class="project-overlay">
-                        <h3>Centre commercial "Les Terrasses"</h3>
+                        <h3>Centre commercial</h3>
                         <!-- <p>Adjame, 2019 - 45 000m² de surface commerciale</p> -->
                     </div>
                 </div>
