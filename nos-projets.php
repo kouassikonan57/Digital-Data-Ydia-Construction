@@ -1031,7 +1031,7 @@ $light_color = "#F5F5F5";
         <!-- Vidéo 1 -->
         <div class="video-slide active" data-video="1">
             <video muted loop playsinline>
-                <source src="image/Background2.mp4" type="video/mp4">
+                <source src="image/video_domaines.mp4" type="video/mp4">
             </video>
             <div class="video-overlay">
                 <h1>Nos Réalisations Prestigieuses</h1>
@@ -1042,7 +1042,7 @@ $light_color = "#F5F5F5";
         <!-- Vidéo 2 -->
         <div class="video-slide" data-video="2">
             <video muted loop playsinline>
-                <source src="image/Bacground3.mp4" type="video/mp4">
+                <source src="image/video_domaines.mp4" type="video/mp4">
             </video>
             <div class="video-overlay">
                 <h1>Innovation et Qualité</h1>
@@ -1053,7 +1053,7 @@ $light_color = "#F5F5F5";
         <!-- Vidéo 3 -->
         <div class="video-slide" data-video="3">
             <video muted loop playsinline>
-                <source src="image/Background4.mp4" type="video/mp4">
+                <source src="image/video_domaines.mp4" type="video/mp4">
             </video>
             <div class="video-overlay">
                 <h1>Engagement Durable</h1>
