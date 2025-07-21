@@ -1120,7 +1120,7 @@ $light_color = "#F5F5F5";
                         <span><i class="fas fa-calendar-alt"></i> 2024</span>
                         <span><i class="fas fa-hotel"></i> Rénovation</span>
                     </div>
-                    <p>éhabilitation complète un département (Département des Virus Epidémique en abrégé DVE) de l’Institut du site d’Adiopodoumé. La réhabilitation consistait à modernisant les bâtiments existants, renforcer les infrastructures électriques et sanitaires, et installer des équipements de bureau de qualité. L’objectif était d’améliorer les conditions de travail des chercheurs, de sécuriser les installations et d’accroître les capacités de diagnostic et de surveillance épidémiologique.</p>
+                    <p>Réhabilitation complète un département (Département des Virus Epidémique en abrégé DVE) de l’Institut du site d’Adiopodoumé. La réhabilitation consistait à modernisant les bâtiments existants, renforcer les infrastructures électriques et sanitaires, et installer des équipements de bureau de qualité. L’objectif était d’améliorer les conditions de travail des chercheurs, de sécuriser les installations et d’accroître les capacités de diagnostic et de surveillance épidémiologique.</p>
                     <a href="projet-institut.php" class="btn" style="margin-top: 15px;">Voir les détails</a>
                 </div>
             </div>
