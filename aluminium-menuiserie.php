@@ -863,48 +863,48 @@ $light_color = "#F5F5F5";
           <div class="produit-icon">
             <i class="fas fa-door-open"></i>
           </div>
-          <h3>Portes en Aluminium</h3>
-          <p>Portes d'entrée et intérieures en aluminium avec une variété de finitions, couleurs et designs. Sécurité renforcée, isolation thermique et acoustique optimale.</p>
+          <h3>Système de puits de lumière</h3>
+          <p>Il s'agit d'un système de puits de lumière pour façade. Il optimise la lumière naturelle tout en offrant un résultat esthétique. Les ventaux s'ouvrent automatiquement grâce à un moteur.</p>
         </div>
 
         <div class="produit-card">
           <div class="produit-icon">
             <i class="fas fa-window-maximize"></i>
           </div>
-          <h3>Fenêtres sur Mesure</h3>
-          <p>Fenêtres en aluminium coulissantes, oscillo-battantes ou fixes, avec vitrage simple, double ou triple selon vos besoins d'isolation.</p>
+          <h3>Système de portes automatiques</h3>
+          <p>Ils offrent une utilisation pratique et hygiénique en préservant l'air chaud ou froid dans les salles d'opération, les centres commerciaux, les bureaux de change, les restaurants et bien d'autres endroits.</p>
         </div>
 
         <div class="produit-card">
           <div class="produit-icon">
             <i class="fas fa-store-alt"></i>
           </div>
-          <h3>Baies Vitrées</h3>
-          <p>Baies coulissantes ou fixes pour ouvrir vos espaces sur l'extérieur. Grandes dimensions possibles grâce à la résistance de l'aluminium.</p>
+          <h3>Systèmes de menuiserie en aluminium</h3>
+          <p>Convient pour une utilisation dans de grandes ouvertures, avec une longueur de barrière thermique de 25 mm et des fenêtres à guillotine cachée, des fenêtres à mécanisme en PVC, une ouverture vers l'intérieur et l'extérieur, des portes pliantes à charnières...</p>
         </div>
 
         <div class="produit-card">
           <div class="produit-icon">
             <i class="fas fa-vector-square"></i>
           </div>
-          <h3>Vérandas & Pergolas</h3>
-          <p>Structures en aluminium pour créer des espaces extérieurs couverts, avec possibilité de vitrage, stores intégrés et systèmes d'ouverture motorisés.</p>
+          <h3>Systèmes de murs-rideaux</h3>
+          <p>Permettant des applications à large ouverture, le système de façade à capuchon peut répondre à toutes vos attentes avec des options de capuchon plat, circulaire et en amande émoussée.</p>
         </div>
 
         <div class="produit-card">
           <div class="produit-icon">
             <i class="fas fa-border-style"></i>
           </div>
-          <h3>Cloisons & Brise-soleil</h3>
-          <p>Solutions architecturales en aluminium pour diviser les espaces ou protéger des rayons du soleil tout en laissant passer la lumière.</p>
+          <h3>Systèmes de revêtement de verre</h3>
+          <p>Ce système est un verre produit en appliquant de la peinture émaillée de différentes couleurs sur du verre plat clair ou coloré en utilisant la méthode d'impression sérigraphique/au rouleau et par trempe.</p>
         </div>
 
         <div class="produit-card">
           <div class="produit-icon">
             <i class="fas fa-grip-lines"></i>
           </div>
-          <h3>Menuiserie Extérieure</h3>
-          <p>Portails, clôtures et garde-corps en aluminium résistant aux intempéries avec finitions anti-corrosion pour une durabilité maximale.</p>
+          <h3>Systèmes de cloisons de bureau</h3>
+          <p>Elle ajoute de la valeur aux environnements de travail dans leur ensemble grâce à ses connaissances en matière de conception, de couleur, de forme et de taille, en utilisant le bois en accord avec sa nature.</p>
         </div>
       </div>
     </div>
