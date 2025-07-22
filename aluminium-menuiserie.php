@@ -780,6 +780,35 @@ $light_color = "#F5F5F5";
       font-size: 16px;
       color: #333;
     }
+
+    .produit-image {
+      width: 100%;
+      height: 200px;
+      overflow: hidden;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+
+    .produit-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    .produit-card:hover .produit-image img {
+      transform: scale(1.05);
+    }
+
+    /* Ajustement pour l'icône */
+    .produit-icon {
+      position: absolute;
+      top: 220px;
+      /* Ajustez selon la hauteur de votre image */
+      right: 20px;
+      font-size: 2.5rem;
+      color: rgba(255, 107, 0, 0.1);
+    }
   </style>
 </head>
 
@@ -860,6 +889,9 @@ $light_color = "#F5F5F5";
 
       <div class="produits-grid">
         <div class="produit-card">
+          <div class="produit-image">
+            <img src="image/systeme_puits_lumiere.jpg" alt="Système de puits de lumière">
+          </div>
           <div class="produit-icon">
             <i class="fas fa-door-open"></i>
           </div>
@@ -868,6 +900,9 @@ $light_color = "#F5F5F5";
         </div>
 
         <div class="produit-card">
+          <div class="produit-image">
+            <img src="image/systeme_portes_auto.png" alt="Système de portes automatiques">
+          </div>
           <div class="produit-icon">
             <i class="fas fa-window-maximize"></i>
           </div>
@@ -876,6 +911,9 @@ $light_color = "#F5F5F5";
         </div>
 
         <div class="produit-card">
+          <div class="produit-image">
+            <img src="image/systeme_alu_menuiserie.jpg" alt="Systèmes de menuiserie en aluminium">
+          </div>
           <div class="produit-icon">
             <i class="fas fa-store-alt"></i>
           </div>
@@ -884,6 +922,9 @@ $light_color = "#F5F5F5";
         </div>
 
         <div class="produit-card">
+          <div class="produit-image">
+            <img src="image/systeme_murs_rideaux.png" alt="Systèmes de murs-rideaux">
+          </div>
           <div class="produit-icon">
             <i class="fas fa-vector-square"></i>
           </div>
@@ -892,6 +933,9 @@ $light_color = "#F5F5F5";
         </div>
 
         <div class="produit-card">
+          <div class="produit-image">
+            <img src="image/systeme_revetement_verre.jpg" alt="Systèmes de revêtement de verre">
+          </div>
           <div class="produit-icon">
             <i class="fas fa-border-style"></i>
           </div>
@@ -900,6 +944,9 @@ $light_color = "#F5F5F5";
         </div>
 
         <div class="produit-card">
+          <div class="produit-image">
+            <img src="image/sytme_cloisons.jpg" alt="Systèmes de cloisons de bureau">
+          </div>
           <div class="produit-icon">
             <i class="fas fa-grip-lines"></i>
           </div>
