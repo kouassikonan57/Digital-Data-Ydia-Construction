@@ -809,6 +809,7 @@ $light_color = "#F5F5F5"; // Gris clair
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 
@@ -855,7 +856,7 @@ $light_color = "#F5F5F5"; // Gris clair
                 metier: 'Développement Web',
                 niveau: 'Bac +3 et plus',
                 experience: '2 ans minimum',
-                recipientEmail: 'recrutement@ydia.com',
+                recipientEmail: 'ydia-btp@ydia.ci',
                 shareButtonsHTML: `
                     <div class="share-button-container">
                         <button class="share-button">Partager</button>
@@ -882,7 +883,7 @@ $light_color = "#F5F5F5"; // Gris clair
                 metier: 'Gestion de Projet',
                 niveau: 'Bac +5 et plus',
                 experience: '5 ans minimum',
-                recipientEmail: 'recrutement@ydia.com',
+                recipientEmail: 'ydia-btp@ydia.ci',
                 shareButtonsHTML: `
                     <div class="share-button-container">
                         <button class="share-button">Partager</button>

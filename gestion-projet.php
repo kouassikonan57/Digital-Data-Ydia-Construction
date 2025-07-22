@@ -884,8 +884,8 @@ $light_color = "#F5F5F5";
             <p class="text-center" style="max-width: 700px; margin: 0 auto 40px;">Découvrez quelques-uns de nos projets récents où notre expertise en gestion a fait la différence.</p>
 
             <div class="projet-item">
-                <div class="projet-media">
-                    <img src="image/renov (8).jpeg" alt="Complexe résidentiel">
+                <div class="projet-media" style="aspect-ratio: 4 / 3; overflow: hidden; border-radius: 10px;">
+                    <img src="image/renov (8).jpeg" alt="Complexe résidentiel" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                 </div>
                 <div class="projet-content">
                     <h3>Réhabiliotation Institut Pasteur</h3>
@@ -971,6 +971,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 

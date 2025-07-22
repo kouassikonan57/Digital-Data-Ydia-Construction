@@ -1545,7 +1545,7 @@ $light_color = "#F5F5F5";
                     <div class="testimonial-content">
                         "La voie rapide San-Pedro est bien plus qu'une infrastructure routière. C'est un modèle d'intégration urbaine et environnementale qui améliore significativement la qualité de vie des habitants tout en répondant aux besoins de mobilité."
                         <div class="testimonial-author">
-                            Pierre Martin,
+                            
                         </div>
                     </div>
                 </div>
@@ -1564,19 +1564,19 @@ $light_color = "#F5F5F5";
                     </div>
                     <div class="info-item">
                         <h4>Date</h4>
-                        <p>2017 - 2019 (24 mois)</p>
+                        <!-- <p>2017 - 2019 (24 mois)</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Budget</h4>
-                        <p>62 millions FCFA</p>
+                        <!-- <p>62 millions FCFA</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Longueur</h4>
-                        <p>8 kilomètres</p>
+                        <!-- <p>8 kilomètres</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Échangeurs</h4>
-                        <p>3 ouvrages</p>
+                        <!-- <p>3 ouvrages</p> -->
                     </div>
                 </div>
 
@@ -1584,19 +1584,19 @@ $light_color = "#F5F5F5";
                     <h3>Chiffres clés</h3>
                     <div class="info-item">
                         <h4>Tunnels</h4>
-                        <p>2 (450m et 650m)</p>
+                        <!-- <p>2 (450m et 650m)</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Béton utilisé</h4>
-                        <p>85 000 m³</p>
+                        <!-- <p>85 000 m³</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Acier</h4>
-                        <p>15 000 tonnes</p>
+                        <!-- <p>15 000 tonnes</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Effectif maximal</h4>
-                        <p>250 personnes</p>
+                        <!-- <p>250 personnes</p> -->
                     </div>
                 </div>
 
@@ -1699,6 +1699,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 

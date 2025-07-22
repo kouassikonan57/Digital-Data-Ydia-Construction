@@ -1382,7 +1382,7 @@ $light_color = "#F5F5F5";
                     <div class="testimonial-content">
                         "YDIA Construction a fait preuve d'un professionnalisme remarquable dans la réalisation de cet ouvrage complexe. Le respect des délais et du budget, malgré les contraintes techniques, témoigne de leur expertise dans le domaine des travaux publics."
                         <div class="testimonial-author">
-                            Jean Dupont, Directeur des Infrastructures - Ministère des Transports
+                            
                         </div>
                     </div>
                 </div>
@@ -1393,27 +1393,27 @@ $light_color = "#F5F5F5";
                     <h3>Informations clés</h3>
                     <div class="info-item">
                         <h4>Client</h4>
-                        <p>Direction Interdépartementale des Routes Bingerville</p>
+                        <p>Direction Interdépartementale des Routes</p>
                     </div>
                     <div class="info-item">
                         <h4>Localisation</h4>
-                        <p>Bingerville, Abidjan</p>
+                        <!-- <p>Abidjan</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Date</h4>
-                        <p>2019 - 2021</p>
+                        <!-- <p>2019 - 2021</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Budget</h4>
-                        <p>45 millions FCFA</p>
+                        <!-- <p>45 millions FCFA</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Longueur</h4>
-                        <p>850 mètres</p>
+                        <!-- <p>850 mètres</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Portée principale</h4>
-                        <p>250 mètres</p>
+                        <!-- <p>250 mètres</p> -->
                     </div>
                 </div>
 
@@ -1421,19 +1421,19 @@ $light_color = "#F5F5F5";
                     <h3>Chiffres clés</h3>
                     <div class="info-item">
                         <h4>Béton utilisé</h4>
-                        <p>12 500 m³</p>
+                        <!-- <p>12 500 m³</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Acier</h4>
-                        <p>2 800 tonnes</p>
+                        <!-- <p>2 800 tonnes</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Heures de travail</h4>
-                        <p>150 000 heures</p>
+                        <!-- <p>150 000 heures</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Effectif maximal</h4>
-                        <p>85 personnes</p>
+                        <!-- <p>85 personnes</p> -->
                     </div>
                 </div>
 
@@ -1534,6 +1534,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 

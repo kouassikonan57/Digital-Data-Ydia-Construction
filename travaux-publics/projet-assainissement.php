@@ -1514,9 +1514,9 @@ $light_color = "#F5F5F5";
                 <div class="project-testimonial">
                     <div class="testimonial-content">
                         "La collaboration avec YDIA Construction sur ce projet complexe a été exemplaire. Leur capacité à adapter les techniques de pose aux contraintes archéologiques et patrimoniales du centre-ville a été déterminante pour le succès de l'opération."
-                        <!-- <div class="testimonial-author">
-                            Marie Lambert, Directrice des Services Techniques - Mairie de Cocody
-                        </div> -->
+                        <div class="testimonial-author">
+                            
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1526,27 +1526,27 @@ $light_color = "#F5F5F5";
                     <h3>Informations clés</h3>
                     <div class="info-item">
                         <h4>Client</h4>
-                        <p>Service Assainissement</p>
+                        <!-- <p>Service Assainissement</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Localisation</h4>
-                        <p>Centre-ville de ..., ...</p>
+                        <!-- <p>Centre-ville de ..., ...</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Date</h4>
-                        <p>.... - .... (18 mois)</p>
+                        <!-- <p>.... - .... (18 mois)</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Budget</h4>
-                        <p>....</p>
+                        <!-- <p>....</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Longueur réseau</h4>
-                        <p>.....</p>
+                        <!-- <p>.....</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Débit maximal</h4>
-                        <p>....</p>
+                        <!-- <p>....</p> -->
                     </div>
                 </div>
 
@@ -1554,19 +1554,19 @@ $light_color = "#F5F5F5";
                     <h3>Chiffres clés</h3>
                     <div class="info-item">
                         <h4>Canaux posés</h4>
-                        <p>....</p>
+                        <!-- <p>....</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Stations de pompage</h4>
-                        <p>....</p>
+                        <!-- <p>....</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Capteurs IoT</h4>
-                        <p>....</p>
+                        <!-- <p>....</p> -->
                     </div>
                     <div class="info-item">
                         <h4>Effectif maximal</h4>
-                        <p>120 personnes</p>
+                        <!-- <p>120 personnes</p> -->
                     </div>
                 </div>
 
@@ -1667,6 +1667,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 

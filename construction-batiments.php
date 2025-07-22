@@ -1111,7 +1111,7 @@ $light_color = "#F5F5F5";
                     </ul>
                 </div>
                 <div class="about-img">
-                    <img src="image/siège-social (5).jpeg" alt="Chantier de construction">
+                    <img src="image/construction.jpg" alt="Chantier de construction">
                 </div>
             </div>
         </div>
@@ -1285,6 +1285,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 

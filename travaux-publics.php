@@ -1113,7 +1113,7 @@ $light_color = "#F5F5F5";
                     <h3>Pont autoroutier A14</h3>
                     <p>Construction d'un ouvrage d'art majeur sur l'autoroute A14, avec une portée principale de 250 mètres. Ce projet complexe a nécessité des techniques de construction innovantes pour minimiser l'impact sur la circulation existante.</p>
                     <div class="project-details">
-                        <div class="detail-item">
+                        <!-- <div class="detail-item">
                             <h4>Localisation</h4>
                             <p>Abidjan</p>
                         </div>
@@ -1124,7 +1124,7 @@ $light_color = "#F5F5F5";
                         <div class="detail-item">
                             <h4>Longueur</h4>
                             <p>....</p>
-                        </div>
+                        </div> -->
                         <!-- <div class="detail-item">
                             <h4>Budget</h4>
                             <p>....</p>
@@ -1142,7 +1142,7 @@ $light_color = "#F5F5F5";
                     <h3>Réseau d'assainissement</h3>
                     <p>Réhabilitation complète du réseau d'assainissement du centre-ville de Cocody, incluant la pose de 12 km de canalisations et la modernisation des stations de pompage. Ce projet a permis de réduire significativement les risques d'inondation.</p>
                     <div class="project-details">
-                        <div class="detail-item">
+                        <!-- <div class="detail-item">
                             <h4>Localisation</h4>
                             <p>Abidjan</p>
                         </div>
@@ -1153,7 +1153,7 @@ $light_color = "#F5F5F5";
                         <div class="detail-item">
                             <h4>Longueur</h4>
                             <p>....</p>
-                        </div>
+                        </div> -->
                         <!-- <div class="detail-item">
                             <h4>Budget</h4>
                             <p>28 millions FCFA</p>
@@ -1171,7 +1171,7 @@ $light_color = "#F5F5F5";
                     <h3>Voie rapide urbaine </h3>
                     <p>Aménagement d'une voie rapide de 8 km en zone urbaine dense, comprenant 3 échangeurs, 2 tunnels et des dispositifs de réduction sonore avancés. Ce projet a considérablement amélioré la fluidité du trafic dans l'est lyonnais.</p>
                     <div class="project-details">
-                        <div class="detail-item">
+                        <!-- <div class="detail-item">
                             <h4>Localisation</h4>
                             <p>Abidjan</p>
                         </div>
@@ -1182,7 +1182,7 @@ $light_color = "#F5F5F5";
                         <div class="detail-item">
                             <h4>Longueur</h4>
                             <p>....</p>
-                        </div>
+                        </div> -->
                         <!-- <div class="detail-item">
                             <h4>Budget</h4>
                             <p>62 millions FCFA</p>
@@ -1250,6 +1250,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 

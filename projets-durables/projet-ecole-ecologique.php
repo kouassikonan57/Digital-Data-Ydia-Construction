@@ -520,20 +520,20 @@ $light_color = "#F5F5F5";
             }
         }
 
-        .comCôte d'Ivoireon-table {
+        .com-cote-divoireon-table {
             width: 100%;
             border-collapse: collapse;
             margin: 40px 0;
         }
 
-        .comCôte d'Ivoireon-table th,
-        .comCôte d'Ivoireon-table td {
+        .com-cote-divoireon-table th,
+        .com-cote-divoireon-table td {
             padding: 15px;
             text-align: left;
             border-bottom: 1px solid #ddd;
         }
 
-        .comCôte d'Ivoireon-table th {
+        .com-cote-divoireon-table th {
             background-color: <?php echo $primary_color; ?>;
             color: white;
         }
@@ -583,7 +583,7 @@ $light_color = "#F5F5F5";
     <section class="container" style="padding:80px 20px;">
         <h2 class="section-title text-center">Rénovation durable</h2>
 
-        <table class="comCôte d'Ivoireon-table">
+        <table class="com-cote-divoireon-table">
             <tr>
                 <th>Critère</th>
                 <th class="before">Avant</th>
@@ -671,6 +671,7 @@ $light_color = "#F5F5F5";
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 

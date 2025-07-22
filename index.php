@@ -1346,7 +1346,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
                 <div class="service-card">
                     <div class="service-img">
-                        <img src="image/gestion-de-projets.jpg" alt="Gestion de projet">
+                        <img src="image/alu_menuiserie.jpg" alt="Aluminium & Menuiserie">
                     </div>
                     <div class="service-content">
                         <h3>Aluminium et menuiserie</h3>
@@ -1354,7 +1354,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         <a href="aluminium-menuiserie.php" class="btn btn-outline" style="margin-top: 15px;">En savoir plus</a>
                     </div>
                 </div>
-                
+
                 <div class="service-card">
                     <div class="service-img">
                         <img src="image/gestion-de-projets.jpg" alt="Gestion de projet">
@@ -1488,13 +1488,28 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                     <div class="partners-track">
                         <!-- Première série de logos -->
                         <div class="partner">
-                            <img src="image/logo/logo yadi car center-01.png" alt="Yadi Car Center">
+                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                <img src="image/logo/logo_group.jpeg" alt="Yadi Group">
+                            </a>
+
                         </div>
                         <div class="partner">
-                            <img src="image/logo/YADI Group_Logotype_DDCS_- Vf.jpg" alt="DDCS">
+                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                <img src="image/logo/logo yadi car center-01.png" alt="Yadi Car Center">
+                            </a>
+
                         </div>
                         <div class="partner">
-                            <img src="image/partenaires/enez-cam-logo.jpg" alt="ENEZ CAM">
+                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                <img src="image/logo/YADI Group_Logotype_DDCS_- Vf.jpg" alt="DDCS">
+                            </a>
+
+                        </div>
+                        <div class="partner">
+                            <a href="https://www.enezcam.com/" target="_blank" rel="noopener noreferrer">
+                                <img src="image/partenaires/enez-cam-logo.jpg" alt="ENEZ CAM">
+                            </a>
+
                         </div>
                         <!-- <div class="partner">
                             <img src="chemin/vers/logo4.png" alt="Partenaire 4">
@@ -1673,6 +1688,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         </div>
                         <button type="submit" class="btn">S'abonner</button>
                     </form>
+                    <div id="formMessage" style="display:none; margin-top: 10px;"></div>
                 </div>
             </div>
 

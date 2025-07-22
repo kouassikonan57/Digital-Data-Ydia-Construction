@@ -730,9 +730,55 @@ $light_color = "#F5F5F5";
     }
 
     @keyframes pulse {
-      0% { transform: scale(1); }
-      50% { transform: scale(1.05); }
-      100% { transform: scale(1); }
+      0% {
+        transform: scale(1);
+      }
+
+      50% {
+        transform: scale(1.05);
+      }
+
+      100% {
+        transform: scale(1);
+      }
+    }
+
+    .realisation-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 0 15px;
+      box-sizing: border-box;
+      width: 100%;
+      max-width: 1200px;
+      margin: 30px auto;
+    }
+
+    .realisation-item {
+      text-align: center;
+      aspect-ratio: 4 / 3;
+      overflow: hidden;
+    }
+
+    .realisation-item img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      border-radius: 10px;
+      object-fit: cover;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease;
+    }
+
+    .realisation-item img:hover {
+      transform: scale(1.05);
+    }
+
+    .realisation-item p {
+      margin-top: 10px;
+      font-weight: bold;
+      font-size: 16px;
+      color: #333;
     }
   </style>
 </head>
@@ -769,7 +815,7 @@ $light_color = "#F5F5F5";
     <div class="slideshow-container">
       <!-- Slide 1 -->
       <div class="mySlides fade">
-        <div class="slide-image" style="background-image: url('image/hero1M.jpg');"></div>
+        <div class="slide-image" style="background-image: url('image/heroM.jpg');"></div>
         <div class="hero-content-aluminium">
           <h1>Aluminium & Menuiserie</h1>
           <p>Des solutions sur mesure pour vos portes, fenêtres et baies vitrées</p>
@@ -928,9 +974,25 @@ $light_color = "#F5F5F5";
       <h2 class="section-title text-center">Nos Réalisations</h2>
       <p class="text-center" style="max-width: 700px; margin: 0 auto 40px;">Découvrez quelques-uns de nos projets récents en aluminium et menuiserie.</p>
 
-      <div class="empty-content">
-        Disponible bientôt
+      <div class="realisation-grid">
+        <div class="realisation-item">
+          <img src="image/realis (1).jpeg" alt="Réalisation 1">
+          <p>Nom du projet 1</p>
+        </div>
+        <div class="realisation-item">
+          <img src="image/realis (2).jpeg" alt="Réalisation 2">
+          <p>Nom du projet 2</p>
+        </div>
+        <div class="realisation-item">
+          <img src="image/realis (3).jpeg" alt="Réalisation 3">
+          <p>Nom du projet 3</p>
+        </div>
+        <!-- Ajoute d'autres projets ici -->
       </div>
+
+      <!-- <div class="empty-content">
+        Disponible bientôt
+      </div> -->
 
       <!-- <div class="projet-item">
                 <div class="projet-media">
@@ -1037,6 +1099,7 @@ $light_color = "#F5F5F5";
             </div>
             <button type="submit" class="btn">S'abonner</button>
           </form>
+          <div id="formMessage" style="display:none; margin-top: 10px;"></div>
         </div>
       </div>
 
