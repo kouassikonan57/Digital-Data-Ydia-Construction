@@ -885,28 +885,28 @@ $light_color = "#F5F5F5";
 
             <div class="projet-item">
                 <div class="projet-media">
-                    <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Complexe résidentiel">
+                    <img src="image/renov (8).jpeg" alt="Complexe résidentiel">
                 </div>
                 <div class="projet-content">
-                    <h3>Complexe Résidentiel "Les Hauts de Seine"</h3>
-                    <p>Gestion complète d'un programme de 120 logements répartis sur 3 bâtiments avec espaces communs et parking souterrain.</p>
+                    <h3>Réhabiliotation Institut Pasteur</h3>
+                    <p> Réhabilitation du departement des virus epidemique DVE de l'Institut Pasteur Adiopodoume.</p>
                     <div class="projet-stats">
                         <div class="stat">.. mois</div>
                         <div class="stat">.. FCFA</div>
                         <div class="stat">Livré à temps</div>
                     </div>
-                    <p><strong>Défis relevés :</strong> Coordination de 15 corps de métiers différents, respect strict des normes acoustiques, gestion des approvisionnements en période de pénurie.</p>
+                    <p><strong>Défis relevés :</strong>Améliorer les conditions de travail des chercheurs, de sécuriser les installations et d’accroître les capacités de diagnostic et de surveillance épidémiologique.</p>
                     <a href="etudes de cas/etude-cas-hauts-de-seine.php" class="btn btn-outline">Voir l'étude de cas</a>
                 </div>
             </div>
 
             <div class="projet-item">
                 <div class="projet-media">
-                    <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Siège social">
+                    <img src="image/siège-social (7).jpeg" alt="Siège social">
                 </div>
                 <div class="projet-content">
-                    <h3>Siège Social Groupe Financier</h3>
-                    <p>Construction et aménagement d'un bâtiment de 12 000m² avec technologies intelligentes et espaces collaboratifs.</p>
+                    <h3>Siège Social Yadi Groupe</h3>
+                    <p>Aménagement du bâtiment du siège social de Yadi Groupe et espaces collaboratifs.</p>
                     <div class="projet-stats">
                         <div class="stat">.. mois</div>
                         <div class="stat">.. FCFA</div>

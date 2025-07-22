@@ -598,7 +598,7 @@ $light_color = "#F5F5F5";
 
                     <div class="gallery">
                         <img src="image/renov (6).jpeg" alt="Façade">
-                        <img src="https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Espace commun">
+                        <img src="image/renov (4).jpeg" alt="Espace commun">
                         <img src="image/INSTITUT-PASTEUR.jpg" alt="Salle d'étude">
                     </div>
                 </div>

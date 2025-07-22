@@ -1160,7 +1160,7 @@ $light_color = "#F5F5F5";
                 </div>
 
                 <div class="gallery-item">
-                    <img src="image/restaurant-interieur.jpg" alt="Rénovation de restaurant">
+                    <img src="image/siège-social (7).jpeg" alt="Rénovation de restaurant">
                     <div class="gallery-overlay">
                         <h3>Institut Pasteur Adiopodoume, Abidjan"</h3>
                         <p>Rénovation complète avec extension de la surface et création d'une véranda</p>

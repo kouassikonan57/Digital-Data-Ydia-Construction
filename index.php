@@ -1253,7 +1253,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                 </div>
 
                 <div class="about-img">
-                    <img src="image/qui-sommes-nous.png" alt="Équipe YDIA CONSTRUCTION">
+                    <img src="image/qui-sommes.png" alt="Équipe YDIA CONSTRUCTION">
                 </div>
             </div>
         </div>
@@ -1349,6 +1349,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         <img src="image/gestion-de-projets.jpg" alt="Gestion de projet">
                     </div>
                     <div class="service-content">
+                        <h3>Aluminium et menuiserie</h3>
+                        <p>Solutions sur mesure : portes, fenêtres, baies vitrées et plus. Qualité, solidité, design.</p>
+                        <a href="aluminium-menuiserie.php" class="btn btn-outline" style="margin-top: 15px;">En savoir plus</a>
+                    </div>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="image/gestion-de-projets.jpg" alt="Gestion de projet">
+                    </div>
+                    <div class="service-content">
                         <h3>Gestion de projet</h3>
                         <p>Coordination complète de votre projet de construction, de la conception à la livraison, garantissant qualité, délais et budget.</p>
                         <a href="gestion-projet.php" class="btn btn-outline" style="margin-top: 15px;">En savoir plus</a>
@@ -1378,7 +1389,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         <img src="https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Tour résidentielle">
                     </div>
                     <div class="project-overlay">
-                        <h3>Tour résidentielle "Les Cèdres"</h3>
+                        <h3>Tour résidentielle</h3>
                         <!-- <p>Côte d'Ivoire, 2022 - 25 étages, 120 appartements</p> -->
                     </div>
                 </div>
@@ -1415,10 +1426,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
 
                 <div class="project-card" data-category="batiment">
                     <div class="project-img">
-                        <img src="image/centre-comm.png" alt="Centre commercial">
+                        <img src="image/siège-social (6).jpeg" alt="Centre commercial">
                     </div>
                     <div class="project-overlay">
-                        <h3>Centre commercial</h3>
+                        <h3>Centre</h3>
                         <!-- <p>Adjame, 2019 - 45 000m² de surface commerciale</p> -->
                     </div>
                 </div>
@@ -1538,7 +1549,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         </div>
                         <div class="info-text">
                             <h4>Email</h4>
-                            <p>contact@ydia-construction.com</p>
+                            <p>ydia-btp@ydia.ci</p>
                         </div>
                     </div>
 

@@ -1111,7 +1111,7 @@ $light_color = "#F5F5F5";
                     </ul>
                 </div>
                 <div class="about-img">
-                    <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Chantier de construction">
+                    <img src="image/siège-social (5).jpeg" alt="Chantier de construction">
                 </div>
             </div>
         </div>
@@ -1125,7 +1125,7 @@ $light_color = "#F5F5F5";
 
             <div class="project-grid">
                 <!-- Projet 1 -->
-                <div class="building-card">
+                <!-- <div class="building-card">
                     <div class="building-img">
                         <img src="https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Tour résidentielle">
                     </div>
@@ -1139,10 +1139,10 @@ $light_color = "#F5F5F5";
                         <p>Construction d'une tour de 25 étages comprenant 120 appartements haut de gamme avec espaces communs premium.</p>
                         <a href="projet-les-cedres.php" class="btn btn-outline" style="margin-top: 15px; display: inline-block;">Détails du projet</a>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Projet 2 -->
-                <div class="building-card">
+                <!-- <div class="building-card">
                     <div class="building-img">
                         <img src="image/terrasse.jpg" alt="Centre commercial">
                     </div>
@@ -1156,12 +1156,12 @@ $light_color = "#F5F5F5";
                         <p>Réalisation d'un complexe commercial de 45 000m² intégrant espaces verts et solutions énergétiques durables.</p>
                         <a href="projet-les-terrasses.php" class="btn btn-outline" style="margin-top: 15px; display: inline-block;">Détails du projet</a>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Projet 3 -->
                 <div class="building-card">
                     <div class="building-img">
-                        <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Siège social">
+                        <img src="image/siège-social (3).jpeg" alt="Siège social">
                     </div>
                     <div class="building-content">
                         <h3>Siège social Yadi Groupe</h3>
@@ -1193,7 +1193,7 @@ $light_color = "#F5F5F5";
                 </div>
 
                 <!-- Projet 5 -->
-                <div class="building-card">
+                <!-- <div class="building-card">
                     <div class="building-img">
                         <img src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Usine durable">
                     </div>
@@ -1207,10 +1207,10 @@ $light_color = "#F5F5F5";
                         <p>Construction d'une usine écologique avec système de récupération des eaux et toiture végétalisée.</p>
                         <a href="projet-greentech.php" class="btn btn-outline" style="margin-top: 15px; display: inline-block;">Détails du projet</a>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Projet 6 -->
-                <div class="building-card">
+                <!-- <div class="building-card">
                     <div class="building-img">
                         <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Complexe sportif">
                     </div>
@@ -1224,7 +1224,7 @@ $light_color = "#F5F5F5";
                         <p>Réalisation d'un complexe sportif avec piscine olympique, salle omnisports et espaces wellness.</p>
                         <a href="projet-complexe-sportif.php" class="btn btn-outline" style="margin-top: 15px; display: inline-block;">Détails du projet</a>
                     </div>
-                </div>
+                </div> -->
             </div>
 
             <div class="text-center" style="margin-top: 50px;">

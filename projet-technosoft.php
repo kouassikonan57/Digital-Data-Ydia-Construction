@@ -563,7 +563,7 @@ $light_color = "#F5F5F5";
         </div>
     </header>
 
-    <section class="project-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')">
+    <section class="project-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/siège-social (7).jpeg')">
         <div class="hero-content">
             <h1>Siège social Yadi Groupe</h1>
             <p>Un écrin technologique pour l'innovation</p>
@@ -597,9 +597,9 @@ $light_color = "#F5F5F5";
                     </ul>
 
                     <div class="gallery">
-                        <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Façade">
-                        <img src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Espaces de travail">
-                        <img src="image/la-plus-belle-terrasse.jpg" alt="Hall d'entrée">
+                        <img src="image/siège-social (1).jpeg" alt="Façade">
+                        <img src="image/siège-social (2).jpeg" alt="Espaces de travail">
+                        <img src="image/siège-social (4).jpeg" alt="Hall d'entrée">
                     </div>
                 </div>
 
