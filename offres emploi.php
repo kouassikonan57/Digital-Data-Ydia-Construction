@@ -855,7 +855,7 @@ $light_color = "#F5F5F5"; // Gris clair
                 metier: 'Développement Web',
                 niveau: 'Bac +3 et plus',
                 experience: '2 ans minimum',
-                recipientEmail: 'ydia-btp@yadi.ci',
+                recipientEmail: 'Ydia.bat@yadi.ci',
                 shareButtonsHTML: `
                     <div class="share-button-container">
                         <button class="share-button">Partager</button>
@@ -882,7 +882,7 @@ $light_color = "#F5F5F5"; // Gris clair
                 metier: 'Gestion de Projet',
                 niveau: 'Bac +5 et plus',
                 experience: '5 ans minimum',
-                recipientEmail: 'ydia-btp@yadi.ci',
+                recipientEmail: 'Ydia.bat@yadi.ci',
                 shareButtonsHTML: `
                     <div class="share-button-container">
                         <button class="share-button">Partager</button>

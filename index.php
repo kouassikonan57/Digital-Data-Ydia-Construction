@@ -1564,7 +1564,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         </div>
                         <div class="info-text">
                             <h4>Email</h4>
-                            <p>ydia-btp@yadi.ci</p>
+                            <p>Ydia.bat@yadi.ci</p>
                         </div>
                     </div>
 
