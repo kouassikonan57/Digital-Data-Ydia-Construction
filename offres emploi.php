@@ -842,8 +842,7 @@ $light_color = "#F5F5F5"; // Gris clair
         const applyButton = document.getElementById('applyButton');
         const closeDetailsButton = jobDetailsModal.querySelector('.close-button');
 
-        const jobOpenings = [
-            {
+        const jobOpenings = [{
                 id: 1,
                 title: 'Développeur Web Front-end',
                 location: 'Abidjan, Côte d\'Ivoire',
@@ -856,7 +855,7 @@ $light_color = "#F5F5F5"; // Gris clair
                 metier: 'Développement Web',
                 niveau: 'Bac +3 et plus',
                 experience: '2 ans minimum',
-                recipientEmail: 'ydia-btp@ydia.ci',
+                recipientEmail: 'ydia-btp@yadi.ci',
                 shareButtonsHTML: `
                     <div class="share-button-container">
                         <button class="share-button">Partager</button>
@@ -883,7 +882,7 @@ $light_color = "#F5F5F5"; // Gris clair
                 metier: 'Gestion de Projet',
                 niveau: 'Bac +5 et plus',
                 experience: '5 ans minimum',
-                recipientEmail: 'ydia-btp@ydia.ci',
+                recipientEmail: 'ydia-btp@yadi.ci',
                 shareButtonsHTML: `
                     <div class="share-button-container">
                         <button class="share-button">Partager</button>
@@ -968,12 +967,12 @@ $light_color = "#F5F5F5"; // Gris clair
             modalJobDescription.textContent = job.description;
             modalJobProfile.textContent = job.profile;
             modalApplicationInstructions.textContent = job.applicationInstructions;
-            
+
             // Configuration du lien mailto pour le bouton Postuler
             const subject = `Candidature pour le poste de ${job.title}`;
             const body = `Bonjour,\n\nJe souhaite postuler pour le poste de ${job.title}.\n\nVeuillez trouver ci-joint mon CV et ma lettre de motivation.\n\nCordialement,\n[Votre nom]`;
             applyButton.href = `mailto:${job.recipientEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-            
+
             jobDetailsModal.style.display = 'flex';
         }
 
@@ -1081,4 +1080,5 @@ $light_color = "#F5F5F5"; // Gris clair
         });
     </script>
 </body>
+
 </html>
