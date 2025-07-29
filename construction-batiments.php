@@ -1262,7 +1262,7 @@ $light_color = "#F5F5F5";
                         <li><a href="nos-projet.php">Nos projets</a></li>
                         <li><a href="index.php#careers">Carrières</a></li>
                         <li><a href="index.php#contact">Contact</a></li>
-                        <li><a href="#">Yadi Groupe</a></li>
+                        <li><a href="www.yadi.ci">Yadi Group</a></li>
                     </ul>
                 </div>
 

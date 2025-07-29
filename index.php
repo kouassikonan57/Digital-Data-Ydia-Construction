@@ -1666,7 +1666,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                         <li><a href="#projects">Nos projets</a></li>
                         <li><a href="#careers">Carrières</a></li>
                         <li><a href="#contact">Contact</a></li>
-                        <li><a href="#">Yadi Groupe</a></li>
+                        <li><a href="www.yadi.ci">Yadi Group</a></li>
                     </ul>
                 </div>
 
