@@ -1143,7 +1143,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> ...</span>
                         </div>
                         <!-- <div class="engin-price">À partir de 1 500 FCFA/jour</div> -->
-                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="devis-location-btp.php" class="btn btn-outline" target="_blank">Demander un devis</a>
                     </div>
                 </div>
                 <!-- Engin 2 -->
@@ -1159,7 +1159,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> ...</span>
                         </div>
                         <!-- <div class="engin-price">À partir de 1 500 FCFA/jour</div> -->
-                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="devis-location-btp.php" class="btn btn-outline" target="_blank">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1176,7 +1176,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> ...</span>
                         </div>
                         <!-- <div class="engin-price">À partir de 1 200 FCFA/jour</div> -->
-                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="devis-location-btp.php" class="btn btn-outline" target="_blank">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1193,7 +1193,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> ...</span>
                         </div>
                         <!-- <div class="engin-price">À partir de 1 800 FCFA/jour</div> -->
-                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="devis-location-btp.php" class="btn btn-outline" target="_blank">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1210,7 +1210,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Puissance:</strong> ...</span>
                         </div>
                         <!-- <div class="engin-price">À partir de 1 300 FCFA/jour</div> -->
-                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="devis-location-btp.php" class="btn btn-outline" target="_blank">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1227,7 +1227,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Largeur:</strong> ...</span>
                         </div>
                         <!-- <div class="engin-price">À partir de 900 FCFA/jour</div> -->
-                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="devis-location-btp.php" class="btn btn-outline" target="_blank">Demander un devis</a>
                     </div>
                 </div>
 
@@ -1244,7 +1244,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Volume:</strong> ...</span>
                         </div>
                         <!-- <div class="engin-price">À partir de 800 FCFA/jour</div> -->
-                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="devis-location-btp.php" class="btn btn-outline" target="_blank">Demander un devis</a>
                     </div>
                 </div>
                 <!-- Engin 8 -->
@@ -1260,7 +1260,7 @@ $light_color = "#F5F5F5";
                             <span><strong>Volume:</strong> ...</span>
                         </div>
                         <!-- <div class="engin-price">À partir de 800 FCFA/jour</div> -->
-                        <a href="index.php#contact" class="btn btn-outline">Demander un devis</a>
+                        <a href="devis-location-btp.php" class="btn btn-outline" target="_blank">Demander un devis</a>
                     </div>
                 </div>
             </div>

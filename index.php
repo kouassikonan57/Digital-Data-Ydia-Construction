@@ -1248,7 +1248,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
             <h2 class="section-title">Qui sommes-nous</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p>YDIA CONSTRUCTION est une filiale de YADI GROUP, créée en 2022 pour accompagner la diversification de nos activités et répondre aux besoins croissants en infrastructures modernes, tant en milieu urbain que rural.</p>
+                    <p>YDIA CONSTRUCTION est une filiale de YADI GROUP, créée en 2021 pour accompagner la diversification de nos activités et répondre aux besoins croissants en infrastructures modernes, tant en milieu urbain que rural.</p>
                     <p>Spécialisée dans le Bâtiment et les Travaux Publics (BTP), notre entreprise s'appuie sur une équipe qualifiée composée d’ingénieurs, de techniciens et d’ouvriers expérimentés.</p>
                     <p>Notre approche allie expertise technique, rigueur professionnelle et innovation, avec pour objectif de livrer des projets durables, fonctionnels et adaptés aux exigences de nos clients.</p>
                     <p>Nous plaçons la qualité, la sécurité et le respect des délais au cœur de chacune de nos réalisations, dans une logique de collaboration transparente et de satisfaction durable.</p>
@@ -1267,7 +1267,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
         <div class="container">
             <div class="stats-container">
                 <div class="stat-item">
-                    <div class="stat-number" data-target="3" data-suffix="+">0</div>
+                    <div class="stat-number" data-target="4" data-suffix="+">0</div>
                     <div class="stat-text">Ans d'expérience</div>
                 </div>
                 <div class="stat-item">
@@ -1514,12 +1514,24 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['contact_submit'])) {
                             </a>
 
                         </div>
-                        <!-- <div class="partner">
-                            <img src="chemin/vers/logo4.png" alt="Partenaire 4">
+                        <div class="partner">
+                            <a href="https://www.enezcam.com/" target="_blank" rel="noopener noreferrer">
+                                <img src="image/partenaires/eHA_logo (1).png" alt="EHA">
+                            </a>
+
                         </div>
                         <div class="partner">
-                            <img src="chemin/vers/logo5.png" alt="Partenaire 5">
-                        </div> -->
+                            <a href="https://www.enezcam.com/" target="_blank" rel="noopener noreferrer">
+                                <img src="image/partenaires/tietto_logo (1).jpg" alt="TIETTO">
+                            </a>
+
+                        </div>
+                        <div class="partner">
+                            <a href="https://www.enezcam.com/" target="_blank" rel="noopener noreferrer">
+                                <img src="image/partenaires/logo_institut_pasteur (1).png" alt="INSTITUT PASTEUR">
+                            </a>
+
+                        </div>
                     </div>
                 </div>
             </div>
