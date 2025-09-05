@@ -1149,7 +1149,7 @@ $light_color = "#F5F5F5";
                 <!-- Engin 2 -->
                 <div class="engin-card">
                     <div class="engin-img">
-                        <img src="image/chargeuse.jpg" alt="Pelle hydraulique">
+                        <img src="image/pelle-hydraulique.jpg" alt="Pelle hydraulique">
                     </div>
                     <div class="engin-content">
                         <h3>Pelle Hydraulique</h3>
